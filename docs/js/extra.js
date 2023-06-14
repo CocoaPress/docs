@@ -14,7 +14,7 @@ function append_support_email() {
 		copyOfItem.title = "Email Support With This Context";
 		copyOfItem.style.opacity = 1;
 		h.style.opacity = 1;
-		copyOfItem.href = "mailto:hello@lightburnsoftware.com?subject=Docs Support Link: " + h.parentElement.firstChild.data + "&body=Hello Support,%0D%0A I was reading the documentation and needed clarification on something.  I was on this page: %0D%0A" + copyOfItem.href + "%0D%0A(please enter your message below here)%0D%0A";
+		copyOfItem.href = "mailto:hello@cocoapress.com?subject=Docs Support Link: " + h.parentElement.firstChild.data + "&body=Hello Support,%0D%0A I was reading the documentation and needed clarification on something.  I was on this page: %0D%0A" + copyOfItem.href + "%0D%0A(please enter your message below here)%0D%0A";
 		outputElements.push([h, copyOfItem]);
 	}
 

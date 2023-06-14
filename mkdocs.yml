@@ -18,7 +18,7 @@ theme:
     primary: red
   name: material
   favicon: img/favicon.ico
-  logo: img/logo.webp
+  logo: img/logo/logo.webp
   custom_dir: overrides/
   features:
     - navigation.tracking #This will automatically produce a link at the top of the page with the current location for copying for people more trivially.
@@ -49,6 +49,7 @@ plugins:
        height: auto
        zoomable: true
        draggable: true
+
 copyright: >
   Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>
   <div></div>
@@ -75,8 +76,8 @@ extra:
       make our documentation better.
   analytics:
     provider: google
-    property: G-0KGNS2NTT8
-    # This cookie token is for the GitHub site as-is, if moved to docs.lb.com we'll need to move it / change the key.
+    property: 
+    # This cookie token is for the GitHub site as-is.
     feedback:
       title: Was this page helpful?
       ratings:
