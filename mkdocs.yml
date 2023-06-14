@@ -15,7 +15,7 @@ extra_javascript:
   - js/extra.js
 theme:
   palette:
-    primary: red
+    primary: deep orange
   name: material
   favicon: img/favicon.ico
   logo: img/logo/logo.webp
@@ -36,8 +36,7 @@ plugins:
     - exclude-search:
         exclude:
           - beta/*
-    #- tags:
-    #    tags_file: tags.md
+
     - minify:
         minify_html: true
 
@@ -112,4 +111,4 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
-      title: Table of Contents
+      title: Page Contents
