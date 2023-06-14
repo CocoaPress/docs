@@ -11,6 +11,7 @@ nav:
   #- 'Tags': tags.md
 extra_css:
   - css/extra.css
+  - "https://use.typekit.net/csv4mjm.css"
 extra_javascript:
   - js/extra.js
 theme:
@@ -20,6 +21,9 @@ theme:
   favicon: img/favicon.ico
   logo: img/logo/logo.webp
   custom_dir: overrides/
+  font:
+    text:
+      "museo-sans"
   features:
     - navigation.tracking #This will automatically produce a link at the top of the page with the current location for copying for people more trivially.
     - toc.autohide  #Automatically hides the header when the user scrolls past a certain point.

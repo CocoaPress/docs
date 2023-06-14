@@ -9,7 +9,9 @@
 
 .md-header {
     background: #f1622b;
+    font-weight: bold;
 }
+
 
 /*
 @media (min-width: 60em) {
