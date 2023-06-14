@@ -1,174 +1,13 @@
-site_name: LightBurn Software Documentation
-site_author: LightBurn Software
+site_name: Cocoa Press Documentation
+site_author: Cocoa Press, LLC.
 site_description: >-
-  Better software for laser cutters.
-site_url: https://docs.lightburnsoftware.com/
+  Break Free from the Mold™
+site_url: https://docs.cocoapress.com
 repo_url: ""
 use_directory_urls: false
 nav:
   - Home: index.md
-  - 'Disclaimer and Safety': DisclaimerAndSafety.md
-  - '<b>Start Here!</b>': 'BeginnerAddConfig.md'
-  - 'Beginner Docs':
-    - 'What Is LightBurn?': 'WhatIsLightBurn.md'
-    - 'Beginner Walkthrough':
-      - 'Adding and Configuring a Laser' : BeginnerAddConfig.md
-      - 'Coordinates & Origin': 'CoordinatesOrigin.md'
-      - 'Basic Usage: The Essentials': 'BasicUsageEssentials.md'
-      - 'Your First Project' : SimpleProject.md
-    - 'Installation & Setup': Installation.md
-    - 'How To use LightBurn': 'BeginnerUITour.md'
-    - 'Moving Around The Workspace' : 'UI/ZoomPanSelect.md'
-
-    - 'Laser Types': 'LaserTypes.md'
-    - 'Feature Comparison': 'FeatureComparison.md'
-
-  - 'Primary Docs':
-    - 'LightBurn Tips': 'TipsAndTricks.md'
-    - 'Installation & Licensing':
-      - 'Installation & Setup': 'Installation.html'
-      - 'Trial or License Activation': TrialAndLicenseActivation.md
-      - 'License Management': LicenseManagement.md
-
-    - 'Adding A Laser':
-      - 'Laser Types': 'LaserTypes.md'
-      - 'Adding A Laser':
-        - 'Find My Laser': 'FindMyLaser.md'
-        - 'Create Manually': 'CreateManually.md'
-        - 'LightBurn Bridge': 'LightBurnBridge.md'
-        - 'Galvo Importer': 'galvo/Setup.html#importer'
-      - 'Connecting to a Laser': 'ConnectingToTheLaser.md'
-
-    - 'Configuring A Laser':
-      - 'Common GRBL/GCode Setups': 'CommonGrblSetups.md'
-      - 'Configuring A Ruida': 'ConfiguringRuida.md'
-      - 'Lens Focus & Calibration (Galvo)': 'galvo/Focusing.md'
-      - 'Machine Settings': 'UI/MachineSettings.md'
-      - 'Device Settings': 'UI/DeviceSettings.md'
-
-    - 'User Interface & Features':
-      - 'Menus': 'UI/Menus.md'
-      - 'Windows & Buttons':
-        - 'Overview':  'UI/index.md'
-
-        #Main UI Elements
-        - 'Main Window': 'BeginnerUITour.html#main-window'
-        - 'Main Toolbar': 'UI/MainToolbar.md'
-        - 'Move Window': 'UI/MoveWindow.md'
-        - 'Laser Control': 'UI/LaserWindow.md'
-        - 'Preview Window': 'UI/Preview.md'
-
-        #Editing Elements
-        - 'Arrangement Toolbar': 'UI/ArrangementToolbar.md'
-        - 'Moving Around The Workspace': 'UI/ZoomPanSelect.html'
-        - 'Numeric Edits': 'UI/NumericEdits.md'
-        - 'Text & Fonts': 'UI/FontsAndText.md'
-        - 'Shape Properties': 'UI/ShapeProperties.md'
-        - 'Creation Tools': 'UI/CreationTools.md'
-
-        #Cut Settings
-        - 'Color Palette': 'BeginnerUITour.html#color-palette'
-        - 'Cuts and Layers': 'UI/CutsAndLayers.md'
-        - 'Cut Settings Editor':
-            - 'Overview': UI/CutSettings/index.md
-            - 'Fill Mode': 'UI/CutSettings/CutSettings-Fill.md'
-            - 'Line Mode': 'UI/CutSettings/CutSettings-Line.md'
-            - 'Offset Fill Mode': 'UI/CutSettings/CutSettings-OffsetFill.md'
-            - 'Image Mode': 'UI/CutSettings/CutSettings-Image.md'
-            - 'Tabs & Bridges': 'UI/Tabs.md'
-
-        #Libraries
-        - 'Art Library': 'UI/ArtLibrary.md'
-        - 'Material Library': 'UI/MaterialLibrary.md'
-
-        #Machine Specific
-        - 'File List': 'UI/FileListWindow.md'
-        - 'Console Window': 'UI/ConsoleWindow.md'
-        - 'Camera Control': 'UsingACamera.md'
-
-        #Setup Items
-        - 'LightBurn Settings': 'UI/SettingsWindow.md'
-        - 'Device Settings': 'UI/DeviceSettings.md'
-        - 'Machine Settings': 'UI/MachineSettings.md'
-      #Tools and Wizards
-      - 'Tools & Wizards':
-        - 'Overview': 'Tools/index.md'
-
-        #images
-        - 'Image Adjustment': 'Tools/AdjustImage.md'
-        - 'Image Tracing': 'Tools/TracingImages.md'
-        - 'Image Masking': 'ImageMasking.md'
-
-        #alignment and fixturing
-        - 'Center Finder': 'Tools/CenterFinder.md'
-        - 'Snapping Tool': 'Tools/Snapping.md'
-        - 'Docking Tool' : 'Tools/Docking.md'
-        - 'Cut Shapes': 'Tools/CutShapes.md'
-
-        #editing & measuring
-        - 'Edit Node Tool': 'Tools/EditNodes.md'
-        - 'Ruler Tool': 'Tools/MeasureTool.md'
-        - 'Modifier Tools': 'Tools/ModifierTools.md'
-        - 'Two-Point Rotate': 'Tools/TwoPointRotate.md'
-
-        #generators & variables
-        - 'Material Test': 'Tools/MaterialTest.md'
-        - 'QR Code Creator': 'Tools/QRCodeCreator.md'
-        - 'Variable Text':
-          - 'Tools/VariableText.md'
-          - 'Variable Text Formatting': 'Tools/VariableTextFormats.md'
-            
-
-      - 'Hotkeys': 'Hotkeys.md'
-
-    - 'Advanced Topics':
-      - 'Optimization Settings': OptimizationSettings.md
-      - 'Cut Shapes Tool' : 'Tools/CutShapes.md'
-      - 'Print and Cut': PrintAndCut.md
-      - 'Rotary Setup': Rotary-DSP.md
-      - 'Scanning Offset Adjustment': ScanningOffsetAdjustment.md
-      - 'Using A Camera': 'UsingACamera.md'
-      - 'Changing a Galvo Lens': 'galvo/ChangingALens.md'
-      - 'Anatomy of a Galvo': 'galvo/AboutGalvos.md'
-      - 'LightBurn for EZCAD Users': 'galvo/EzcadHatchQuickTranslation.md'
-      - 'Laser Timings': 'galvo/AboutGalvos.html#last-timing-adjustment'
-      - 'IO Port Control': 'galvo/ConfigureGalvoSettings.html#io-ports'
-      - 'Galvo Sources': 'galvo/AboutGalvos.html#sources'
-      - 'Working with Fusion 360': 'Fusion360.md'
-    
-
-    - 'Troubleshooting':
-      - 'Troubleshooting': Troubleshooting.md
-      - 'Connection Issues': Troubleshooting-Connection.md
-      - 'GRBL errors': Troubleshooting-GRBL.md
-      - 'Ruida errors': Troubleshooting-Ruida.md
-      - 'Output issues': Troubleshooting-Output.md
-      - 'LightBurn errors': Troubleshooting-LightBurn.md
-      - 'LightBurn Editor': Troubleshooting-LightBurn-Editor.md
-    
-    - 'Machine Guides':
-      - 'Ethernet Connection (Ruida)': 'Guides/Ruida-Ethernet.md'
-      - 'Ethernet Connection (Trocen)': 'Guides/Trocen-Ethernet.md'
-      - 'Sculpfun S9 Limit Switches': 'Guides/SculpfunS9-Limit.md'
-      - 'Sculpfun S9 Flashing Guide': 'Guides/SculpfunS9-Flashing.md'
-
-  - 'Galvo Docs': 
-    - 'galvo/index.md'
-    - 'Glossary': 'galvo/Glossary.md'
-    - 'Galvo Installation': 'galvo/Installation.md'
-    - 'Galvo Setup': 'galvo/Setup.md'
-    - 'Galvo Settings' : 'galvo/ConfigureGalvoSettings.md'
-    - 'Lens Correction': 'galvo/LensCorrection.md'
-    - 'Framing Mode': 'galvo/Framing.md'
-    - 'Focusing': 'galvo/Focusing.md'
-    - 'Cylinder Correction': 'galvo/CylinderCorrection.md'
-    - 'Cut Settings Editor': 'UI/CutSettings/#'
-    - 'EZCAD Hatch & LightBurn Fill': 'galvo/EzcadHatchQuickTranslation.md'
-    - 'Rotary for Galvo': 'galvo/Rotary.md'
-    - 'New Lens Setup': 'galvo/ChangingALens.md'
-    - '3D Sliced Engravings': 'galvo/3DSlice.md'
-    - 'Galvo Anatomy': 'galvo/AboutGalvos.md'
-
+  
   #- 'Tags': tags.md
 extra_css:
   - css/extra.css
@@ -196,82 +35,12 @@ plugins:
     - include-markdown
     - exclude-search:
         exclude:
-          - Troubleshooter/*
+          - beta/*
     #- tags:
     #    tags_file: tags.md
-    - social:
-        cards: !ENV [CI, false]
-        cards_color:
-          fill: "#FB2227"
-          text: "#FFFFFF"
     - minify:
         minify_html: true
 
-    - redirects:
-        redirect_maps:
-            #This redirects handle all of the major movement between the 
-            'ArtLibrary.md': 'UI/ArtLibrary.md'
-            'Menus.md': 'UI/Menus.md'
-            'MachineSettings.md': 'UI/MachineSettings.md'
-            'DeviceSettings.md': 'UI/DeviceSettings.md'
-            'LightBurnWindows.md': 'UI/index.md'
-
-            #This is just for the downloads and installations.
-            'Downloading.md': 'Installation.md'
-
-            #Adding Your Laser became part of the beginner docs.
-            'AddingYourLaser.md': 'BeginnerAddConfig.md'
-
-            'ConfiguringALaser.md': 'BeginnerAddConfig.md'
-
-            #Tools Redirects
-            'CreationTools.md': 'UI/CreationTools.md' 
-            'AdjustImage.md': 'Tools/AdjustImage.md'
-            'CenterFinder.md': 'Tools/CenterFinder.md'
-            'CutShapes.md': 'Tools/CutShapes.md'
-            'Docking.md': 'Tools/Docking.md'
-            'EditNodes.md': 'Tools/EditNodes.md'
-            'MeasureTool.md': 'Tools/MeasureTool.md'
-            'ModifierTools.md': 'Tools/ModifierTools.md'
-            'QRCodeCreator.md': 'Tools/QRCodeCreator.md'
-            'VariableText.md': 'Tools/VariableText.md'
-            'VariableTextFormats.md': 'Tools/VariableTextFormats.md'
-
-            #UI Pages Redirects
-            'MoveWindow.md': 'UI/MoveWindow.md'
-            'LaserWindow.md': 'UI/LaserWindow.md'
-            'MainToolbar.md': 'UI/MainToolbar.md'
-            'Preview.md': 'UI/Preview.md'
-
-            #UI/Editing Elements
-            'ArrangementToolbar.md': 'UI/ArrangementToolbar.md'
-            'ZoomPanSelect.md': 'UI/ZoomPanSelect.md'
-            'NumericEdits.md': 'UI/NumericEdits.md'
-            'FontsAndText.md': 'UI/FontsAndText.md'
-            'ShapeProperties.md': 'UI/ShapeProperties.md'
-
-            #Tracing images
-            'TracingImages.md': 'Tools/TracingImages.md'
-            'Tabs.md' : "UI/Tabs.md"
-
-            #this is to catch a redirect of an old page that wasn't _quite_ there. A placeholder at best, last I saw.
-            'EngravingImages.md': 'Tools/TracingImages.md'
-
-            #This is to redirect the old URL to the new one.  Hopefully.
-
-            'CutSettingsWindow.md': 'UI/CutSettings/index.md'
-            'BeginnerWalkthrough.md': 'BeginnerAddConfig.md'
-
-            #redirects from broken beginnerdocs fragments.
-
-            'FirstTimeSetup.md': 'TrialAndLicenseActivation.md'
-            'FirstRun.md': 'TrialAndLicenseActivation.md'
-
-            #Redirect from old Sculpfun S9 to new link.
-            'SculpfunS9Limit.md' : 'Guides/SculpfunS9-Limit.md'
-
-            #Move to three-page style with consistent naming now.  Yay!
-            'RotarySetup.md': 'Rotary-DSP.md'
     - glightbox:
        touchNavigation: true
        loop: false
@@ -281,24 +50,22 @@ plugins:
        zoomable: true
        draggable: true
 copyright: >
-  Copyright &copy; <a href="https://lightburnsoftware.com/">LightBurn Software</a>
+  Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>
   <div></div>
   <a href="#__consent">Cookie Settings</a>
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/lightburnlaser
+      link: https://twitter.com/CocoaPress
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/lightburnsoftware/
+      link: https://www.instagram.com/CocoaPress
     - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@lightburnsoftware
-    - icon: fontawesome/brands/discourse
-      link: https://forum.lightburnsoftware.com/
+      link: http://tiktok.com/@elianarose66
       title: "Support Forum"
     - icon: material/email-fast
-      link: mailto:support@lightburnsoftware.com
+      link: mailto:hello@cocoapress.com
     - icon: octicons/globe-16
-      link: https://lightburnsoftware.com/
+      link: https://cocoapress.com/
   consent:
     title: Cookie consent
     description: >- 
