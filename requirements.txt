@@ -2,3 +2,4 @@ mkdocs-material
 mkdocs-exclude-search
 mkdocs-redirects
 mkdocs-include-markdown-plugin
+mkdocs-minify-plugin
