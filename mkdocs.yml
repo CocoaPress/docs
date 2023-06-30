@@ -19,7 +19,7 @@ theme:
     primary: deep orange
   name: material
   favicon: img/favicon.ico
-  logo: img/logo/logo.webp
+  logo: img/logo/cocoa.png
   custom_dir: overrides/
   font:
     text:
