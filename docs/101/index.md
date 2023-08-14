@@ -24,4 +24,4 @@ The "layer height" is the literal height of the layer of chocolate before the pr
 
 Your Cocoa Press uses a configuration for moving the extruder you might not have seen before.  A CoreXY system (as described here) uses an "A" and a "B" stepper motor, to combine their motion to move the extruder.  A more "classic" motion system would have one motor per axis, but the CoreXY allows the printer to accelerate the extruder with *both* motors.  This allows faster acceleration while keeping individual motor load spread out.
 
-For more information on CoreXY motion systems, please refer to  this[site](https://corexy.com/) on CoreXY cartesian motion systems.
+For more information on CoreXY motion systems, please refer to this [site](https://corexy.com/) on CoreXY cartesian motion systems.

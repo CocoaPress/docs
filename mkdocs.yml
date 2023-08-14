@@ -107,6 +107,9 @@ markdown_extensions:
       alternate_style: true 
   - abbr
   - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.snippets:
       auto_append:
         - glossary/abbreviations.md
