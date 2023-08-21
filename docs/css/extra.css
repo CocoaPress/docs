@@ -12,3 +12,7 @@
     background: #f1622b;
     font-weight: bold;
 }
+
+.pride-bg {
+    background: linear-gradient(to right, red,var(--md-primary-fg-color), var(--md-primary-fg-color) 40%,yellow, blue, indigo, violet);
+}

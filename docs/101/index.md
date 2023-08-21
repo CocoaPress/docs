@@ -16,11 +16,13 @@ The slicer is a tool you use to convert 3d models downloaded or made on your com
 
 The "layer height" is the literal height of the layer of chocolate before the printer lowers the bed to print the next layer.  Different nozzle sizes change the maximum layer height, and by extension, how fast you can print the same model, but there's a resolution tradeoff.  The finer the layer height, the slower the print is.
 
-<!-- Add diagram showing off layer height differences. -->
-
 ![Layer Height Explainer](../img/layer_height_diagram.png)
 
-### Motion Systems
+## Nozzle Size
+
+The Nozzle of a printer describes the diameter of the hole the additive material is extruded through.  Many plastic 3D printers use a .4 or .6mm nozzle, and your Cocoa Press comes with a .8mm nozzle. This means that the smallest size a single line the printer can print is .8mm, and any thicknesses greater than that will either use infill to compensate, or  make the innermost layer(s) extrude less material as though it had a smaller nozzle.
+
+## Motion Systems
 
 Your Cocoa Press uses a configuration for moving the extruder you might not have seen before.  A CoreXY system (as described here) uses an "A" and a "B" stepper motor, to combine their motion to move the extruder.  A more "classic" motion system would have one motor per axis, but the CoreXY allows the printer to accelerate the extruder with *both* motors.  This allows faster acceleration while keeping individual motor load spread out.
 
