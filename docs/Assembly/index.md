@@ -12,10 +12,11 @@ The assembly guide and this documentation are intended to be used as compliments
 <link href="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.9.179/web/pdf_viewer.min.css " rel="stylesheet">
 
 <style>
-    #the-canvas {
+    .pdf-frame {
   border: .5px solid grey;
   direction: ltr;
 }
+
     </style>
     
 <div style="padding-bottom:10px;">
@@ -26,7 +27,7 @@ The assembly guide and this documentation are intended to be used as compliments
 
 </div>
 
-<canvas id="the-canvas" style="width: 100%";></canvas>
+<canvas class="pdf-frame" id="the-canvas" style="width: 100%";></canvas>
 
 
 <script>// If absolute URL from the remote server is provided, configure the CORS
@@ -47,10 +48,6 @@ var pdfDoc = null,
     canvas = document.getElementById('the-canvas'),
     ctx = canvas.getContext('2d');
 
-/**
- * Get page info from document, resize canvas accordingly, and render page.
- * @param num Page number.
- */
 function renderPage(num) {
   pageRendering = true;
   // Using promise to fetch the page
@@ -77,14 +74,9 @@ function renderPage(num) {
     });
   });
 
-  // Update page counters
   document.getElementById('page_num').textContent = num;
 }
 
-/**
- * If another page rendering in progress, waits until the rendering is
- * finised. Otherwise, executes rendering immediately.
- */
 function queueRenderPage(num) {
   if (pageRendering) {
     pageNumPending = num;
@@ -93,9 +85,6 @@ function queueRenderPage(num) {
   }
 }
 
-/**
- * Displays previous page.
- */
 function onPrevPage() {
   if (pageNum <= 1) {
     return;
@@ -105,9 +94,6 @@ function onPrevPage() {
 }
 document.getElementById('prev').addEventListener('click', onPrevPage);
 
-/**
- * Displays next page.
- */
 function onNextPage() {
   if (pageNum >= pdfDoc.numPages) {
     return;
@@ -117,14 +103,10 @@ function onNextPage() {
 }
 document.getElementById('next').addEventListener('click', onNextPage);
 
-/**
- * Asynchronously downloads PDF.
- */
 pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
   pdfDoc = pdfDoc_;
   document.getElementById('page_count').textContent = pdfDoc.numPages;
 
-  // Initial/first page rendering
   renderPage(pageNum);
 });
 </script>
@@ -155,3 +137,9 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 if you're unsure what fastener is which, an A4-scale reference sheet is avalible for download [here]().  On it is a 20mm x 20mm square to allow you to measure and confirm your 2D printer's bleed and margins are to scale sufficiently to identify parts.
 
 [Fastener Sheet :material-download:](../assets/fastener_sheet_v3.pdf){ .md-button .md-button--primary}
+
+### Note
+
+PDF.js is licensed under <a href="https://github.com/mozilla/pdf.js/blob/master/LICENSE">Apache License 2.0</a>.
+
+PDF.js example is from <a href="https://jsfiddle.net/pdfjs/wagvs9Lf/">here</a>.

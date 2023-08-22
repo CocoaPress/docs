@@ -25,4 +25,4 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
 ## Done!
 
-Preheat your chocolate and you'll be ready to print!    
+Preheat your chocolate and you'll be ready to print!
