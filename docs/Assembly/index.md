@@ -10,14 +10,6 @@ The assembly guide and this documentation are intended to be used as compliments
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.9.179/build/pdf.min.js "></script>
 <link href="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.9.179/web/pdf_viewer.min.css " rel="stylesheet">
-
-<style>
-    .pdf-frame {
-  border: .5px solid grey;
-  direction: ltr;
-}
-
-    </style>
     
 <div style="padding-bottom:10px;">
   <button id="prev" class="md-button .md-small">Previous</button>
@@ -28,7 +20,6 @@ The assembly guide and this documentation are intended to be used as compliments
 </div>
 
 <canvas class="pdf-frame" id="the-canvas" style="width: 100%";></canvas>
-
 
 <script>// If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
