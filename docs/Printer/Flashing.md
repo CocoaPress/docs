@@ -34,3 +34,5 @@ Select the appropriate serial port for your printer.
     BOSSA will show "connected" with a string of letters and numbers including "SAM" if it's the correct connected device.  
 
 Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on your printer.
+
+<!-- TODO: Check BOSSA.js tool that Marcio is working on!? : https://github.com/drunken-octopus/drunken-octopus-downloader/tree/main>

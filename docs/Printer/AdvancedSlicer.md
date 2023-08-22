@@ -26,3 +26,14 @@ PrusaSlicer allows you to add text onto a surface of any model by selecting the 
 You can use any and all TrueType fonts you have installed on your computer, and can adjust placement with some careful selection.
 
 For more information, look at the [Text tool](https://help.prusa3d.com/article/text-tool_399460) section in the PrusaSlicer documentation.
+
+## Vase Mode
+
+Vase mode allows you to print certain models as a continuous line circled up and up, allowing for large, thin prints.
+
+To enable, go to Print Settings in PrusaSlicer, Layers and Perimeters, Vertical Shells, and select "Spiral Vase".
+
+![](../img/printer/vasemode_menu.png)
+
+!!! info
+    The slicer will have to change multiple settings to make this type of print actually manufacturable.  It's important that you check the geometry is able to be printed and doesn't produce any warnings or error messages before printing.  Many vase mode prints will be labeled as such.  for more information, see [Model Selection](../101/Models.md#finding-3d-models-to-print).
