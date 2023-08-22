@@ -1,1 +1,3 @@
 # Chocolate Ethics
+
+<!-- Ellie section -->
