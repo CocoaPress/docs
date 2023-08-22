@@ -1,6 +1,6 @@
 # The Slicer
 
-The slicer is a tool you use to convert 3d models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3d printer is different, we need to use a specific "profile", or machine configuration, to tell the Slicer to produce information for the Cocoa Press specifically.
+The slicer is a tool you use to convert 3D models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3D printer is different, we need to use a specific "profile", or machine configuration, to tell the slicer to produce information for the Cocoa Press specifically.
 
 ![](../img/101/slicer.png)
 
@@ -47,7 +47,22 @@ This menu item is how users are expected to import experimental or legacy Cocoa 
 
 ## Useful Settings
 
-- macOS instance switch thing
-- override settings
-- pause print
-- insert message
+### Running More Than One Copy
+
+macOS users may expect to be able to only open a single "instance" (running copies) of PrusaSlicer, and to make working with multiple print plates simultaneously easier, they added a toggle for this.
+
+Users can either open the "Window" Menu and click "Open New Instance" or by pressing ++ctrl+shift+i++ to open a new instance.   
+
+Configuration -> Preferences -> General should have an item approximately half-way up that states:
+
+`Allow just a single PrusaSlicer instance`
+
+Ensuring this *isn't* selected will allow macOS to open more than one copy of PrusaSlicer simultaneously.   
+
+![](../img/printer/prusaslicer_pref_general.png)
+
+### Advanced Use
+
+This guide will explain more in-depth uses of PrusaSlicer with your Cocoa Press.  Follow it here.
+
+[Advanced Slicer Use :material-arrow-right:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}

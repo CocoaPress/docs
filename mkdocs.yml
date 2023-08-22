@@ -42,6 +42,7 @@ nav:
       - 'Loading Chocolate': 'Printer/Loading.md'
       - 'Cleaning Cartridges': 'Printer/Cleaning.md'
       - 'Updating Your Printer': 'Printer/Flashing.md'
+      - 'Advanced Slicer Use': 'Printer/AdvancedSlicer.md'
   - Troubleshooting:
       - 'Troubleshooting/index.md'
       - 'Common Issues': 'Troubleshooting/Help.md'
