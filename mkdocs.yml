@@ -58,7 +58,7 @@ theme:
   palette:
     primary: deep orange
   name: material
-  favicon: img/favicon.ico
+  favicon: img/favicon.svg  
   logo: img/logo/cocoa.png
   custom_dir: overrides/
   font:
