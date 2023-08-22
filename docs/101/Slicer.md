@@ -11,8 +11,8 @@ You can download PrusaSlicer [here.](https://www.prusa3d.com/page/prusaslicer_42
 
 [PrusaSlicer Download :material-download:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}
 
-!!! note
-    These steps may change as Cocoa Press is added to the formal releases of PrusaSlicer.  Keep your eyes peeled for when that happens.
+!!! tip
+    If you're looking for steps on how to add Cocoa Press to your set-up slicer, you'll want those steps [here](#).
 
 ## PrusaSlicer Menus
 
@@ -31,6 +31,19 @@ Window -> 3D (++ctrl+5++)  This is the view of your model before it's been proce
 Window -> Preview (++ctrl+6++) The process of turning your imported model(s) into instructions your printer can follow can be done with the button in the bottom right menu, called the "Slice" button (++ctrl+r++).  
 
 ## File Exports
+
+To make instructions for your Cocoa Press, they'll be saved as a GCode file, which is a language for specific digitally controlled machines (3D printers, some laser cutters, large industrial machinery, etc.) on how to manufacture the object you're instructing it to.
+
+!!! warning
+    GCode files are machine specific, so if you've set up a slicer for a specific printer (your Cocoa Press), using GCode for a different printer could damage it, and vice versa also applies.  Some printers have safety checks, some do not.  Caution is advised!
+
+## File Imports
+
+PrusaSlicer can import a variety of model types, as well as machine configurations if a file was sliced for a given printer was exported with those settings saved in the instructions.
+
+### Import Config Bundle
+
+This menu item is how users are expected to import experimental or legacy Cocoa Press printer configurations.  See further instructions [here](#). <!-- TODO Add import config instructions -->
 
 ## Useful Settings
 
