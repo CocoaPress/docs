@@ -8,6 +8,9 @@ PrusaSlicer is the slicer you'll be using for your Cocoa Press machine to make c
 
 You can download PrusaSlicer [here.](https://www.prusa3d.com/page/prusaslicer_424/)
 
+
+[PrusaSlicer Download :material-download:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}
+
 !!! note
     These steps may change as Cocoa Press is added to the formal releases of PrusaSlicer.  Keep your eyes peeled for when that happens.
 
