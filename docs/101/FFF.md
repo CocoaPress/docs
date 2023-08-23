@@ -10,11 +10,19 @@ FFF can enable some incredible designs that wouldn't be possible with any other 
 
 <!-- TODO insert photo of bonbon for reference. -->
 
-Compared to the timeless "Benchy" test print for 3d printing, and any piece of interior detail, would be unattainable with molding.
+Compared to the timeless ["Benchy"](https://www.3dbenchy.com/) test print for 3d printing, and any piece of interior detail, would be unattainable with molding.
+
+![](../img/101/benchy_overhang.png)
 
 ## Support
 
-<!-- TODO replace example with Thangs links. -->
-As a user, you can use support structure, where chocolate is used as scaffolding for the rest of your print, to support large overhangs.  As chocolate cools, it doesn't instantly solidify, so this is an important step for most FFF printers as well.  Alternatively, you might be able to just look at [models]() that already have support built-in, or better yet, don't need it at all.
+As a user, you can use support structure, where chocolate is used as scaffolding for the rest of your print, to support large overhangs.  As chocolate cools, it doesn't instantly solidify, so this is an important step for most FFF printers as well.  Alternatively, you might be able to just look at [models]() that already have support built-in, or better yet, don't need it at all. <!-- TODO add link to integral support models -->
 
 An example of a print that expects support might be [this] model of X, where a print that doesn't need it (especially if some small overhangs and drooping is acceptable) might be Y.
+
+![](../img/101/benchy_supports.png)
+
+!!! info
+    The content in green in the above screenshot are "organic" supports, a newer style that uses less material for other forms of FFF printing. The parts in orange and blue are the actual material used for the print in question.
+
+    Above print is the top half portion of the 3D Benchy model scaled up.
