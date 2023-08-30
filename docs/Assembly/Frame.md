@@ -4,10 +4,9 @@
     <div class="card">
         <h2>Tools</h2>
             <ul>
-                <li>Wire Cutters</li>
-                <li>Zip Ties</li>
                 <li>M3 Driver</li>
                 <li>M5 Driver</li>
+                <li>Phillips Driver</li> <!-- pg 3, M3x8 BHPS to hold the back acrylic in place. -->
             </ul>
     </div>
 
