@@ -23,7 +23,9 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 ## Print Prep
  - [ ] Tilt the extruder back vertical, and secure with latch.
  - [ ] If printing soon, preheat chocolate using "Preheat" menu.
+ - [ ] Once timer expires, press and hold "Extrude" on main menu to gently push chocolate out.
 
+ ![](../img/printer/extrude_button_menu.png)
 ## Done!
 
 You're now ready to print your next amazing creation!

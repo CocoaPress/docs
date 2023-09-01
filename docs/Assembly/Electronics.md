@@ -1,5 +1,21 @@
 # Electronics & Wiring
 
+<div class="grid">
+    <div class="card">
+        <h2>Tools</h2>
+            <ul>
+                <li>M3 Driver</li> 
+                <li>Flush Cutters</li> <!-- TODO do we want to call out that it's not included? -->
+                <li>Zipties</li> <!-- TODO do we want to call out that it's not included? -->
+            </ul>
+    </div>
+
+    <div class="card">
+        <h2>Difficulty</h2>
+            <p>Easy</p>
+    </div>
+</div>
+
 ## Archim2 Mainboard
 
 !!! warning
