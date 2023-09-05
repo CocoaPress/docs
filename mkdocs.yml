@@ -14,6 +14,7 @@ nav:
       - Finding Models: '101/Models.md'
       - Layer Height: '101/Layers.md'
       - Motion Systems: '101/index.html#motion-systems'
+
   - 'Chocolate 101':
       - 'Types of Chocolate': 'Chocolate/Types.md'
       - 'Temperature & Temperament': 'Chocolate/Temperature.md' 
@@ -38,6 +39,7 @@ nav:
       - 'Tophat': 'Assembly/Tophat.md'
   - 'Machine Operation':
       - 'Printer/index.md'
+      - 'Slicer Setup': 'Printer/SlicerSetup.md'
       - 'Loading Chocolate': 'Printer/Loading.md'
       - 'Cleaning Cartridges': 'Printer/Cleaning.md'
       - 'Updating Your Printer': 'Printer/Flashing.md'
