@@ -6,7 +6,7 @@ Cleaning your cartridges permits you to reuse them for multiple types of chocola
 
 - [ ] Flat Brush
 - [ ] Tube Brush
-- [ ]  Soap
+- [ ] Soap
 - [ ] Warm Water
 - [ ] Pushrod
 
@@ -14,8 +14,8 @@ Cleaning your cartridges permits you to reuse them for multiple types of chocola
 
 ## Prep
 
-- [ ] Unscrew the nozzle from the housing
-- [ ] Use pushrod to remove plunger if still present
+- [ ] Unscrew the nozzle from the housing.
+- [ ] Use pushrod to remove plunger from housing if still present.
 
 ## Cleaning
 
@@ -25,10 +25,13 @@ Cleaning your cartridges permits you to reuse them for multiple types of chocola
 - [ ] Using the flat brush, clean up anything left in the nozzle and run under warm water.  Most should be removable with this brush.
 - [ ] Using the tube brush’s edge, clean the bottom face of the nozzle, including the tip.
 
+!!! note
+    If the nozzle is not thoroughly rinsed out, soap may become trapped inside the nozzle itself, effecting the safety and taste of the food.  Ensure it's thoroughly rinsed.
+
 ## Drying
 
-- [ ] Pat dry
-- [ ] Allow to air dry completely before use
+- [ ] Pat dry with paper towels.
+- [ ] Allow to air dry completely before use.
 
 ## Before Use
 

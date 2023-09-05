@@ -12,7 +12,7 @@ You can download PrusaSlicer [here.](https://www.prusa3d.com/page/prusaslicer_42
 [PrusaSlicer Download :material-download:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}
 
 !!! tip
-    If you're looking for steps on how to add Cocoa Press to your set-up slicer, you'll want those steps [here](#).
+    If you're looking for steps on how to add Cocoa Press to your set-up slicer, you'll want those steps [here](../Printer/SlicerSetup.md).
 
 ## PrusaSlicer Menus
 
