@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: 3.x
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - run: apt install pngquant
+      - run: sudo apt install pngquant
       - uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
