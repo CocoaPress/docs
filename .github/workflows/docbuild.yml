@@ -30,3 +30,5 @@ jobs:
           GH_PAT: ${{secrets.GH_PAT}}
         run: pip install git+https://${GH_PAT}@github.com/CocoaPress/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
+        env:
+          CI: true

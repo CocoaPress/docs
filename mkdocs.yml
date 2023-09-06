@@ -95,8 +95,8 @@ plugins:
        zoomable: true
        draggable: true
   # https://squidfunk.github.io/mkdocs-material/setup/building-an-optimized-site/#built-in-optimize-plugin
-  - optimize:
-      enabled: !ENV [CI, false]
+    - optimize:
+        enabled: !ENV [CI, false]
 
 copyright: >
   Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>
