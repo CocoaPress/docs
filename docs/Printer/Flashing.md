@@ -16,9 +16,9 @@ To update the firmware on your printer, you'll need to use Shumatech BOSSA, the 
 Download the preferred version of BOSSA for your computer from GitHub [here.](https://github.com/shumatech/BOSSA/releases)
 
 !!! caution
-    There are known issues with BOSSA not working correctly on macOS M1/M2 computers.  We're watching [a potential fix](https://github.com/shumatech/BOSSA/issues/76), but at this moment it's suggested you use another computer to flash new firmware should you need to.  Windows and older macOS computers should still work fine for this.
+    There are known issues with BOSSA not working correctly on macOS M1/M2 computers.  Please see the [below steps](#apple-silicon-mac-steps) for a workaround.
 
-    If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2), but you should only use this fix if you know what you're doing.
+    If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2) to use desktop BOSSA, but you should only use this fix if you know what you're doing.
 
 Download the latest Cocoa Press firmware from [here.](#) <!-- TODO ADD FIRMWARE LINK -->
 
@@ -35,4 +35,25 @@ Select the appropriate serial port for your printer.
 
 Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on your printer.
 
-<!-- TODO: Check BOSSA.js tool that Marcio is working on!? : https://github.com/drunken-octopus/drunken-octopus-downloader/tree/main>
+<!-- TODO: Check BOSSA.js tool that Marcio is working on!? : https://github.com/drunken-octopus/drunken-octopus-downloader/tree/main>-->
+
+## Apple Silicon Mac Steps
+
+To flash to your Macintosh, SynDaver has made a web slicer that can be used with Cocoa Press printers.
+
+!!! note
+    This beta tool only works on Chrome via webUSB.  Safari doesn't yet support WebUSB.
+
+Open the SynDaver Web Slicer Beta [here.](https://syndaverco.github.io/slicer-beta/)
+
+In the left-pane, use the dropdown to select "Advanced Features".
+
+![](../img/flashing_firmware/syndaverflash-menu.png)
+
+Expand the "Custom Firmware Update" button and use the file picker to select the CocoaPress.bin firmware downloaded earlier.
+
+![](../img/flashing_firmware/syndaverflash_selectfile.png)
+
+Click the "Update" button, and select the serial port attached to your Cocoa Press.
+
+<!-- TODO: Add Chrome menu of flashing it. -->
