@@ -9,6 +9,9 @@ glightbox: false
 
 Welcome to the Cocoa Press Documentation!  This document will help you set up and troubleshoot your Cocoa Press for anything not convered in the [assembly guide](https://www.cocoapress.com/assemblyguide).
 
+!!! note
+  This site is still very much a work in progress.  Not all content is loaded into it yet.  Please be patient, thank you.
+
 <div class="grid cards" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
 <ul>
 <li><a href="/101/"><img src="img/homepage/frame.svg" alt="Isometric view of the frame of the Cocoa Press printer, with no extruder attached."/><hr><strong>3D Printing 101</strong></a></li>

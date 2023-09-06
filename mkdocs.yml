@@ -58,7 +58,7 @@ extra_javascript:
   - js/extra.js
 theme:
   palette:
-    primary: deep orange
+    primary: "deep orange"
   name: material
   favicon: img/favicon.svg  
   logo: img/logo/cocoa.png
