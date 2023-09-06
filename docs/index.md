@@ -9,8 +9,8 @@ glightbox: false
 
 Welcome to the Cocoa Press Documentation!  This document will help you set up and troubleshoot your Cocoa Press for anything not convered in the [assembly guide](https://www.cocoapress.com/assemblyguide).
 
-!!! note
-  This site is still very much a work in progress.  Not all content is loaded into it yet.  Please be patient, thank you.
+!!! caution
+    This site is still very much a work in progress.  Not all content is loaded into it yet.  Please be patient, thank you.
 
 <div class="grid cards" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
 <ul>
