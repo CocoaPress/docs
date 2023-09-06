@@ -29,5 +29,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-exclude-search mkdocs-redirects mkdocs-minify-plugin mkdocs-glightbox
-      - run: - run: pip install git+https://${GH_PAT}@github.com/CocoaPress/mkdocs-material-insiders.git
+      - run: pip install git+https://${GH_PAT}@github.com/CocoaPress/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
