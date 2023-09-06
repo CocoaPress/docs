@@ -121,7 +121,7 @@ extra:
       make our documentation better.
   analytics:
     provider: google
-    property: 
+    property: G-1652R5G1WM
     # This cookie token is for the GitHub site as-is.
     feedback:
       title: Was this page helpful?
