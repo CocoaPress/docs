@@ -1,14 +1,15 @@
 # Flashing New Firmware
 
-To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.
+To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.  Schumatech BOSSA
 
 ## Prep
-
-<!-- TODO Add printer hardware button -->
 
 - turn printer off
 - hold erase button in USB port while turning printer back on
 - plug printer in via USB
+
+<!-- TODO Add printer hardware button photo -->
+
 - screen should be off, etc.
 
 ## Download
