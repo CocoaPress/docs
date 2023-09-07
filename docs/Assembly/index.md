@@ -104,21 +104,21 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 
 ## Assembly Guide Sections
 
-<div class="grid cards" style="grid-template-columns: repeat(auto-fit,minmax(8rem,1fr));">
+<div class="grid cards" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
   <ul>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Hardware</strong></li>
-    <li><img src = "../img/assembly/extrusion_prep/extrusion_prep.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Extrusion Prep</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Frame</strong></li>
-    <li><img src = "../img/assembly/abdrives/abdrives.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>A/B Drives</strong></li>
-    <li><img src = "../img/assembly/abidlers/abidlers.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>A/B Idlers</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Z Axis</strong></li>
-    <li><img src = "../img/assembly/x_rail/x_rail.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>X Axis</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>A/B Belts</strong></li>
-    <li><img src = "../img/assembly/printbed/printbed.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Print Bed</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Extruder</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Electronics + Wiring</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Skirt & Panels</strong></li>
-    <li><img src = "../img/assembly/abbelts/abbelts.png" alt="A/B Belt Top-Down View from CAD"/><hr><strong>Tophat</strong></li>
+    <li><strong>Hardware</strong></li>
+    <li><strong>Extrusion Prep</strong></li>
+    <li><strong>Frame</strong></li>
+    <li><strong>A/B Drives</strong></li>
+    <li><strong>A/B Idlers</strong></li>
+    <li><strong>Z Axis</strong></li>
+    <li><strong>X Axis</strong></li>
+    <li><strong>A/B Belts</strong></li>
+    <li><strong>Print Bed</strong></li>
+    <li><strong>Extruder</strong></li>
+    <li><strong>Electronics + Wiring</strong></li>
+    <li><strong>Skirt & Panels</strong></li>
+    <li><strong>Tophat</strong></li>
   </ul>
 </div>
 
