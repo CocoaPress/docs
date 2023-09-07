@@ -6,7 +6,7 @@ glightbox: false
 
 The assembly guide and this documentation are intended to be used as compliments.  Find the assembly manual [here]().
 
-[Assembly Guide :material-arrow-right: ](#){ .md-button .md-button--primary}
+[Assembly Guide :material-arrow-right: ](../assets/assembly_manual.pdf){ .md-button .md-button--primary}
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.9.179/build/pdf.min.js "></script>
 <link href="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.9.179/web/pdf_viewer.min.css " rel="stylesheet">
@@ -23,7 +23,7 @@ The assembly guide and this documentation are intended to be used as compliments
 
 <script>// If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-var url = '../assets/assembly_guide_8_16_23.pdf';
+var url = '../assets/assembly_manual.pdf';
 
 // Loaded via <script> tag, create shortcut to access PDF.js exports.
 var pdfjsLib = window['pdfjs-dist/build/pdf'];
