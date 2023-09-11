@@ -31,7 +31,7 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
  ![](../img/printer/loading/thumbscrew.jpg)
 
- - [ ] Use the thumb screw to secure the cartridge in place. <!-- use photo of thumbscrew to show "correct" orientation; glamour shot possibility.-->
+ - [ ] Use the thumb screw to secure the cartridge in place.
  - [ ] Using the Load / Unload menu, lower the leadscrew until the motor stalls.
     - [ ] This step removes air from the cartridge and ensures print uniformity.
 

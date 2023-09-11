@@ -1,6 +1,6 @@
 # Flashing New Firmware
 
-To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.  Schumatech BOSSA
+To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.
 
 ## Prep
 
@@ -39,10 +39,10 @@ Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on 
 
 ## Apple Silicon Mac Steps
 
-To flash to your Macintosh, SynDaver has made a web slicer that can be used with Cocoa Press printers.
+To flash to your Macintosh, SynDaver has made a web slicer that includes flashing firmware tools for the type of control board your Cocoa Press uses.  In short, it can be used to update your printer's firmware same as BOSSA above can be.
 
 !!! note
-    This beta tool only works on Chrome via webUSB.  Safari doesn't yet support WebUSB.
+    This beta tool only works on Chrome due to the use of webUSB.  Safari and Firefox don't yet support WebUSB.
 
 Open the SynDaver Web Slicer Beta [here.](https://syndaverco.github.io/slicer-beta/)
 
