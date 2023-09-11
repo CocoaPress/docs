@@ -2,7 +2,7 @@ site_name: Cocoa Press Documentation
 site_author: Cocoa Press, LLC.
 site_description: >-
   Break Free from the Mold™
-site_url: https://docs.cocoapress.com
+site_url: https://help.cocoapress.com
 repo_url: "https://github.com/CocoaPress/docs"
 use_directory_urls: false
 nav:
