@@ -4,20 +4,21 @@ To update the firmware on your printer, you'll need to use Shumatech BOSSA, the 
 
 ## Prep
 
-- turn printer off
-- hold erase button in USB port while turning printer back on
-- plug printer in via USB
+- Before flashing, be sure that your printer is completely off.
+- Using the erase button inside the USB panel on the left side of the printer, hold this button while turning the printer on.  After three seconds, you can release.
+- Connect the printer to your computer via USB.
 
 <!-- TODO Add printer hardware button photo -->
 
-- screen should be off, etc.
+!!! info
+    To ensure that you followed the above setup steps correctly, you'll want to ensure that your Cocoa Press' screen is *not* on.  Nothing showing on the screen means it's in update mode.
 
-## Download
+### Download
 
 Download the preferred version of BOSSA for your computer from GitHub [here.](https://github.com/shumatech/BOSSA/releases)
 
 !!! caution
-    There are known issues with BOSSA not working correctly on macOS M1/M2 computers.  Please see the [below steps](#apple-silicon-mac-steps) for a workaround.
+    There are known issues with desktop BOSSA not working correctly on macOS M1/M2 computers.  Please see the [below steps](#apple-silicon-mac-steps) for a workaround.
 
     If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2) to use desktop BOSSA, but you should only use this fix if you know what you're doing.
 
@@ -35,8 +36,6 @@ Select the appropriate serial port for your printer.
     BOSSA will show "connected" with a string of letters and numbers including "SAM" if it's the correct connected device.  
 
 Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on your printer.
-
-<!-- TODO: Check BOSSA.js tool that Marcio is working on!? : https://github.com/drunken-octopus/drunken-octopus-downloader/tree/main>-->
 
 ## Apple Silicon Mac Steps
 
