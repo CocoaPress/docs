@@ -3,7 +3,7 @@ site_author: Cocoa Press, LLC.
 site_description: >-
   Break Free from the Mold™
 site_url: https://docs.cocoapress.com
-repo_url: ""
+repo_url: "https://github.com/CocoaPress/docs"
 use_directory_urls: false
 nav:
   - 'Home': 'index.md'
@@ -42,7 +42,7 @@ nav:
         - 'Tophat': 'Assembly/Tophat.md'
   
   - 'Getting Up and Running':
-      - 'Quickstart': 'test/index.md'
+      - 'Quickstart': 'Printer/index.md'
       - 'Slicer Setup': 'Printer/SlicerSetup.md'
       - 'Loading Chocolate': 'Printer/Loading.md'
       - 'Cleaning Cartridges': 'Printer/Cleaning.md'
