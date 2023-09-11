@@ -7,48 +7,52 @@ repo_url: ""
 use_directory_urls: false
 nav:
   - 'Home': 'index.md'
-  - '3D Printing 101':
-      - '101/index.md'
-      - 'FFF And You': '101/FFF.md'
-      - The Slicer: '101/Slicer.md'
-      - Finding Models: '101/Models.md'
-      - Layer Height: '101/Layers.md'
-      - Motion Systems: '101/index.html#motion-systems'
+  - 'Learn':
+    - '3D Printing 101':
+        - '101/index.md'
+        - 'FFF And You': '101/FFF.md'
+        - The Slicer: '101/Slicer.md'
+        - Finding Models: '101/Models.md'
+        - Layer Height: '101/Layers.md'
+        - Motion Systems: '101/index.html#motion-systems'
 
-  - 'Chocolate 101':
-      - 'Types of Chocolate': 'Chocolate/Types.md'
-      - 'Temperature & Temperament': 'Chocolate/Temperature.md' 
-      - 'Food Safety': 'Chocolate/FoodSafety.md'
-      - 'Ethics of Chocolate': 'Chocolate/Ethics.md'
+    - 'Chocolate 101':
+        - 'Types of Chocolate': 'Chocolate/Types.md'
+        - 'Temperature & Temperament': 'Chocolate/Temperature.md' 
+        - 'Food Safety': 'Chocolate/FoodSafety.md'
+        - 'Ethics of Chocolate': 'Chocolate/Ethics.md'
       
 
-  - 'Assembling Your Cocoa Press':
-      - 'Assembly/index.md'
-      - 'Hardware': 'Assembly/Hardware.md'
-      - 'Extrusion Prep': 'Assembly/Extrusion.md'
-      - 'Frame': 'Assembly/Frame.md'
-      - 'A/B Drives' : 'Assembly/ABDrives.md'
-      - 'A/B Idlers': 'Assembly/ABIdlers.md'
-      - 'Z Axis': 'Assembly/ZAxis.md'
-      - 'X Axis': 'Assembly/XAxis.md'
-      - 'A/B Belts': 'Assembly/ABBelts.md'
-      - 'Print Bed': 'Assembly/PrintBed.md'
-      - 'Extruder': 'Assembly/Extruder.md'
-      - 'Electronics & Wiring': 'Assembly/Electronics.md'
-      - 'Skirt & Panels': 'Assembly/Skirt.md'
-      - 'Tophat': 'Assembly/Tophat.md'
-  - 'Machine Operation':
-      - 'Printer/index.md'
+  - 'Assembly':
+    - 'Before You Start': 'Assembly/start.md'
+    - 'Assembling Your Cocoa Press':
+        - 'Assembly/index.md'
+        - 'Hardware': 'Assembly/Hardware.md'
+        - 'Extrusion Prep': 'Assembly/Extrusion.md'
+        - 'Frame': 'Assembly/Frame.md'
+        - 'A/B Drives' : 'Assembly/ABDrives.md'
+        - 'A/B Idlers': 'Assembly/ABIdlers.md'
+        - 'Z Axis': 'Assembly/ZAxis.md'
+        - 'X Axis': 'Assembly/XAxis.md'
+        - 'A/B Belts': 'Assembly/ABBelts.md'
+        - 'Print Bed': 'Assembly/PrintBed.md'
+        - 'Extruder': 'Assembly/Extruder.md'
+        - 'Electronics & Wiring': 'Assembly/Electronics.md'
+        - 'Skirt & Panels': 'Assembly/Skirt.md'
+        - 'Tophat': 'Assembly/Tophat.md'
+  
+  - 'Getting Up and Running':
+      - 'Quickstart': 'test/index.md'
       - 'Slicer Setup': 'Printer/SlicerSetup.md'
       - 'Loading Chocolate': 'Printer/Loading.md'
       - 'Cleaning Cartridges': 'Printer/Cleaning.md'
       - 'Updating Your Printer': 'Printer/Flashing.md'
       - 'Advanced Slicer Use': 'Printer/AdvancedSlicer.md'
-  - Troubleshooting:
-      - 'Troubleshooting/index.md'
-      - 'Common Issues': 'Troubleshooting/Help.md'
-      - 'Electronics': 'Troubleshooting/Electronics.md'
-      - 'Slicer & Software': 'Troubleshooting/Slicer.md'
+      - 'Troubleshooting':
+          - 'Troubleshooting/index.md'
+          - 'Common Issues': 'Troubleshooting/Help.md'
+          - 'Electronics': 'Troubleshooting/Electronics.md'
+          - 'Slicer & Software': 'Troubleshooting/Slicer.md'
   
   #- 'Tags': tags.md
 extra_css:
@@ -68,8 +72,13 @@ theme:
       "museo-sans"
   features:
     - navigation.tracking #This will automatically produce a link at the top of the page with the current location for copying for people more trivially.
-    - toc.autohide  #Automatically hides the header when the user scrolls past a certain point.
-    - navigation.indexes
+    - navigation.expand
+    #- toc.autohide  #Automatically hides the header when the user scrolls past a certain point.
+    #- navigation.indexes
+    - navigation.path
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    - navigation.sections
     - toc.follow
     - search.share
     - search.suggest
