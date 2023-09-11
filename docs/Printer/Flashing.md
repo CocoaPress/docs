@@ -6,6 +6,9 @@ To update the firmware on your printer, you'll need to use Shumatech BOSSA, the 
 
 - Before flashing, be sure that your printer is completely off.
 - Using the erase button inside the USB panel on the left side of the printer, hold this button while turning the printer on.  After three seconds, you can release.
+
+![](../img/flashing_firmware/button_location.png)
+
 - Connect the printer to your computer via USB.
 
 <!-- TODO Add printer hardware button photo -->
