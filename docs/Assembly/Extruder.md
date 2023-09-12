@@ -5,9 +5,9 @@
     <div class="card">
         <h2>Tools</h2>
             <ul>
-                <!--<li>M3 Driver</li>
+                <li>M2 Driver</li>
+                <li>M3 Driver</li>
                 <li>M5 Driver</li>
-                <li>Phillips Driver</li> <!-- pg 3, M3x8 BHPS to hold the back acrylic in place. -->
             </ul>
     </div>
 
@@ -24,3 +24,7 @@
 <script>
   queueRenderPage(12);
 </script>
+
+## Useful Tips
+
+There are several jigs to make calibrating and assembling your extruder easier.  Be sure to use them here.

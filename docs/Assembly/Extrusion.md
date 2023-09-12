@@ -7,6 +7,8 @@
 
 Start by unpacking and sorting the extrusion in the kit from the box and arranging them as shown below.
 
+![](../img/assembly/extrusion_prep/extrusion_prep.svg)
+
 {%
    include-markdown "./common.md"
 %}
