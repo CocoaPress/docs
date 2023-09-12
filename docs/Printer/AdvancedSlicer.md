@@ -19,13 +19,18 @@ PrusaSlicer allows you to override specific properties of a model loaded into a 
 
 ## Text on Surfaces
 
-PrusaSlicer allows you to add text onto a surface of any model by selecting the model in the [3D View] and pressing ++t++ on your keyboard, or by right-clicking on the model and selecting the "Add Part" -> "Text" menu item. 
+PrusaSlicer allows you to add text onto a surface of any model by selecting the model in the [3D View](../101/Slicer.md#model-view--3d-view) and pressing ++t++ on your keyboard, or by right-clicking on the model and selecting the "Add Part" -> "Text" menu item. 
 
 ![](../img/printer/texttool.png)
 
 You can use any and all TrueType fonts you have installed on your computer, and can adjust placement with some careful selection.
 
 For more information, look at the [Text tool](https://help.prusa3d.com/article/text-tool_399460) section in the PrusaSlicer documentation.
+
+!!! note
+    Do be aware that the slicer will not render text below the resolution of a single linewidth in many cases.  As such, you'll need to make your text large enough to be extruded.
+
+    ![](../img/printer/slicer/mintextsize.png)
 
 ## Vase Mode
 
