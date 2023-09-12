@@ -1,3 +1,10 @@
+---
+hide:
+  - feedback
+
+glightbox: false
+---
+
 # Troubleshooting
 
 Sorry you've having issues with your printer, what seems to be the problem?
