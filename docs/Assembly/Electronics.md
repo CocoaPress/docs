@@ -16,6 +16,14 @@
     </div>
 </div>
 
+{%
+   include-markdown "./common.md"
+%}
+
+<script>
+  renderPage(150);
+  </script>
+
 ## Archim2 Mainboard
 
 !!! warning
