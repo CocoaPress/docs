@@ -42,3 +42,15 @@ To enable, go to Print Settings in PrusaSlicer, Layers and Perimeters, Vertical 
 
 !!! info
     The slicer will have to change multiple settings to make this type of print actually manufacturable.  It's important that you check the geometry is able to be printed and doesn't produce any warnings or error messages before printing.  Many vase mode prints will be labeled as such.  for more information, see [Model Selection](../101/Models.md#finding-3d-models-to-print).
+
+## Sequential Printing
+
+When making larger batches of prints, you may be able to print *sequentially*, where one object in the slicer is printed, then the next, and so on.  This is only possible if the extruder doesn't collide with your models.  
+
+To check, check the PrusaSlicer "Print Settings" -> "Output Options" -> "Complete individual objects".
+
+![](../img/printer/sequential.png)
+
+If there's a red radius around the objects, they're too close and may need to be separated.
+
+![](../img/printer/sequential_crash.png)
