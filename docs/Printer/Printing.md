@@ -22,11 +22,12 @@ Once you've gone through the quickstart and verified your printer is running wel
 - [ ] When asked if you want to start that file, press "yes" to begin the print.
 - [ ] The printer will begin the print by probing homing the X and Y axes, and then the Z height.  Then, it begins a purge line, to remove any chocolatey debris on the extruder's nozzle.  Depending on the profile this may vary.
 
-<!-- TODO add photo of purge line in progress? -->
+![](../img/printer/purgeline.png)
 
 - [ ] Supervise the first layer to ensure good bed adhesion.  Your first layer should be in contact with the silicone baking sheet, but not tearing into it.  
 
-<!-- TODO photo of first layer. -->
+![](../img/printer/firstlayer.jpg)
+
 ## Printing In Operation
 
 Provided the first layer successfully completed, all you'll need to do is let the printer continue the print until done.  When done, the printer will play a jingle to let the user know when the print is successfully done.
