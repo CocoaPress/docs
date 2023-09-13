@@ -1,9 +1,9 @@
-# Z Axis
+# Panels
 
 {%
    include-markdown "./common.md"
 %}
 
 <script>
-  queueRenderPage(34);
+  queueRenderPage(26);
 </script>

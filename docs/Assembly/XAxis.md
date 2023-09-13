@@ -21,5 +21,5 @@
 %}
 
 <script>
-  queueRenderPage(12);
+  queueRenderPage(90);
 </script>

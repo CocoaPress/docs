@@ -6,10 +6,9 @@
             <ul>
                 <li>M3 Driver</li>
                 <li>M5 Driver</li>
-                <li>Phillips Driver</li> <!-- pg 3, M3x8 BHPS to hold the back acrylic in place. -->
+                <li>Small Phillips Driver</li> <!-- pg 3, M3x8 BHPS to hold the back acrylic in place. -->
             </ul>
     </div>
-
     <div class="card">
         <h2>Difficulty</h2>
             <p>Medium</p>
@@ -21,5 +20,5 @@
 %}
 
 <script>
-  queueRenderPage(12);
+  queueRenderPage(14);
 </script>

@@ -22,7 +22,7 @@
 %}
 
 <script>
-  queueRenderPage(12);
+  queueRenderPage(126);
 </script>
 
 ## Useful Tips
