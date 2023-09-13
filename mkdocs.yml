@@ -51,9 +51,6 @@ nav:
       - 'Storing Chocolate': 'Chocolate/Storage.md'
       - 'Troubleshooting':
           - 'Troubleshooting/index.md'
-          - 'Common Issues': 'Troubleshooting/Help.md'
-          - 'Electronics': 'Troubleshooting/Electronics.md'
-          - 'Slicer & Software': 'Troubleshooting/Slicer.md'
 
   - 'Advanced Chocolate Printing':
       - 'What Can You Print?': 'Advanced/PrintableDesigns.md'
@@ -61,11 +58,7 @@ nav:
       - 'Advanced Slicer Use': 'Advanced/Slicer.md'
       - 'Making Large Prints': 'Advanced/LargePrints.md'
       - 'Updating Your Printer': 'Advanced/Flashing.md'
-      - 'Troubleshooting':
-          - 'Troubleshooting/index.md'
-          - 'Common Issues': 'Troubleshooting/Help.md'
-          - 'Electronics': 'Troubleshooting/Electronics.md'
-          - 'Slicer & Software': 'Troubleshooting/Slicer.md'
+      - 'Troubleshooting': 'Advanced/Troubleshooting.md'
 
 extra_css:
   - css/extra.css
