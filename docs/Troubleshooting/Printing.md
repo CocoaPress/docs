@@ -38,3 +38,13 @@ Then, Turn the M5 screw in the top left or right to raise or lower the screw.
 Once the extruder is in a place where the bed can be raised to a space to trigger the Z-probe *without *colliding with the silicone baking sheet or the bed, re-tighten the four M5 screws on the extruder printed parts.
 
 Then, re-probe your bed mesh and run the Z Adjust Offset wizard again to ensure no data from before the adjustment is present.
+
+## Extruded Line is Wobbly
+
+![](../img/troubleshooting/extruder_latch_wobbly_print.jpg)
+
+If your print has lines or vibrations that appear during fast moves, you may need to tighten the bolt used to latch the extruder's pivot in place.
+
+<!-- add close-up photo of extruder pivot -->
+
+If this doesn't resolve the issue, you may also want to check the screw in the pivot of the extruder, as well as the button head used to retain the socket head screw listed above when latched.
