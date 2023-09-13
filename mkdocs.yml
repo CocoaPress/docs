@@ -46,7 +46,9 @@ nav:
       - 'Slicer Setup': 'Printer/SlicerSetup.md'
       - 'Loading Chocolate': 'Printer/Loading.md'
       - 'Printing': 'Printer/Printing.md'
-      - 'Cleaning Cartridges': 'Printer/Cleaning.md'
+      - 'Cleaning':
+        - 'Cleaning Cartridges': 'Printer/Cleaning.md'
+        - 'Cleaning Plungers': 'Printer/Plunger.md'
       - 'Updating Your Printer': 'Printer/Flashing.md'
       - 'Advanced Slicer Use': 'Printer/AdvancedSlicer.md'
       - 'Troubleshooting':
