@@ -57,6 +57,7 @@ function renderPage(num) {
   });
 
   document.getElementById('page_num').textContent = num;
+  pageNum = num;
 }
 
 function queueRenderPage(num) {
