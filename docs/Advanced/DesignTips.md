@@ -28,7 +28,7 @@ Ensure any hinges or thick walls have a minimum diameter that matches the [nozzl
 It's highly suggested you verify your overhang distances and angles, as the ability of chocolates to bridge and overhang will vary depending on environmental humidity and temperature.
 
 !!! tip
-    The Cocoa Press PrusaSlicer profile will call out egregious overhangs.  
+    The Cocoa Press PrusaSlicer profile will call out egregious overhangs (as depicted below in the Sliced View in blue.) 
 
     === "Model View"
 

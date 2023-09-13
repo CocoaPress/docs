@@ -24,6 +24,4 @@ The "layer height" is the literal height of the layer of chocolate before the pr
 
 The Nozzle of a printer describes the diameter of the hole the additive material is extruded through.  Many plastic 3D printers use a .4 or .6mm nozzle, and your Cocoa Press comes with a .8mm nozzle. This means that the smallest size a single line the printer can print is .8mm, and any thicknesses greater than that will either use infill to compensate, or  make the innermost layer(s) extrude less material as though it had a smaller nozzle.
 
-<!-- nozzle size image -->
-
 ![](../img/101/nozzle_size_dia.png)
