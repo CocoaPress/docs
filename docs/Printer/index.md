@@ -20,12 +20,17 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
 
  - [ ] Using the spatula that came with your printer, test that the Z proximity switch light changes when pressed to the bottom of the switch.
  - [ ] In the Homing menu, attempt to home all axes.
- - [ ] Ensure you do not have a chocolate cartridge loaded when doing this test.
+    - [ ] Ensure you do not have a chocolate cartridge loaded when doing this test.
+    - [ ] Afterwards, load one.
 
-In the Menu, run the Mesh Bed Leveling routine to have the printer calculate bed tilt, deflection, and more for printing.
+## Integration Checks 
+ - [ ] In the Menu, disable Stepper Motors and use the Limit Switch menu to monitor the Z-probe state in software.
+ - [ ] Using your hands, move the Bed Z leadscrew up until the proximity switch changes state on screen.  The LED in the probe should also change state.
+    - [ ] If the nozzle collides with the bed or the silicone baking sheet, you'll need to adjust the extruder as described [here.](../Troubleshooting/Printing.md#adjusting-extruder-height)
 
-## Loading A Chocolate Core
-Follow the steps [here.](./Loading.md)
+## Good to go!
+
+If you've made it this far, you should be ready to print your culinary creations!
 
 ## Loading Chocolate
 

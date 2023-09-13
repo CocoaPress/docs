@@ -4,6 +4,8 @@ FFF, or [Fused Filament Fabrication](https://en.wikipedia.org/wiki/Fused_filamen
 
 <!-- TODO Add gif of printer in motion / cut webm of printer working -->
 
+The Cocoa Press works similarly to plastic printers in theory, the extruder is moved around the workspace of the printer, extruding warm material (chocolate) and cooling through ambient temperatures to produce novel and interesting designs!
+
 ## Overhangs
 
 FFF can enable some incredible designs that wouldn't be possible with any other method of manufacture, especially for chocolate.  A common chocolate-making technique is to use molds, where the profile of a piece is taken and then filled or poured with molten chocolate.  
