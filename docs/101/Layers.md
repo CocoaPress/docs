@@ -8,7 +8,7 @@ Different nozzles constrain the maximum layer height you can print with before t
 
 ## Z Offset
 
-Z offset describes the space the printer adds to the detection area of your printer to define the "zero" of the print area's height.  Too far away and the first layer of chocolate doesn't solidly link to the silpat.  Too close, and your nozzle will collide with the silicone baking sheet.  
+Z offset describes the space the printer adds to the detection area of your printer to define the "zero" of the print area's height.  Too far away and the first layer of chocolate doesn't solidly link to the silicone baking sheet.  Too close, and your nozzle will collide with the silicone baking sheet.  
 
 This setting is user adjustable and can be tuned in the [Z Offset Wizard.](#)<!-- TODO Add Z Offset Wizard menus-->
 

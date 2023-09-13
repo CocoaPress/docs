@@ -4,11 +4,10 @@
     <div class="card">
         <h2>Tools</h2>
             <ul>
-                <li>M2 Driver</li>
+                <li>M1.5 Driver</li> <!-- TODO confirm this is the right size of driver for the stepper pulleys -->
                 <li>M3 Heatset Tool</li> <!-- TODO do we want to call out that it's not included? -->
                 <li>M3 Driver</li> <!-- first seen slide 49 -->
                 <li>M5 Driver</li> <!-- first seen slide 51 -->
-                <!-- TODO what size is the set screw of the pulleys for AB Drive?  Slide 50 -->
             </ul>
     </div>
 
