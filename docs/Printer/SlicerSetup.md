@@ -1,5 +1,10 @@
 # Setting Up PrusaSlicer
 
+!!! note
+    Your Cocoa Press comes with files "pre-sliced", or pre-made for you to be able to print without following the steps below.  The steps below are intended to enable you to do custom designs that didn't come included with your printer.  
+
+    It's highly suggested the below steps are followed, even if you don't intend to use custom designs yet.  
+    
 To produce the correct files for your Cocoa Press, you'll need to set up PrusaSlicer as shown below.  This minimizes the risks of giving the printer instructions that may damage it.
 
 ## Downloading

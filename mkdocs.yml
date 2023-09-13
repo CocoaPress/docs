@@ -45,6 +45,7 @@ nav:
       - 'Quickstart': 'Printer/index.md'
       - 'Slicer Setup': 'Printer/SlicerSetup.md'
       - 'Loading Chocolate': 'Printer/Loading.md'
+      - 'Printing': 'Printer/Printing.md'
       - 'Cleaning Cartridges': 'Printer/Cleaning.md'
       - 'Updating Your Printer': 'Printer/Flashing.md'
       - 'Advanced Slicer Use': 'Printer/AdvancedSlicer.md'
