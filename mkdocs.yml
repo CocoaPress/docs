@@ -22,7 +22,6 @@ nav:
         - 'Food Safety': 'Chocolate/FoodSafety.md'
         - 'Ethics of Chocolate': 'Chocolate/Ethics.md'
       
-
   - 'Assembly':
     - 'Before You Start': 'Assembly/start.md'
     - 'Assembling Your Cocoa Press':
@@ -49,15 +48,25 @@ nav:
       - 'Cleaning':
         - 'Cleaning Cartridges': 'Printer/Cleaning.md'
         - 'Cleaning Plungers': 'Printer/Plunger.md'
-      - 'Updating Your Printer': 'Printer/Flashing.md'
-      - 'Advanced Slicer Use': 'Printer/AdvancedSlicer.md'
+      - 'Storing Chocolate': 'Chocolate/Storage.md'
       - 'Troubleshooting':
           - 'Troubleshooting/index.md'
           - 'Common Issues': 'Troubleshooting/Help.md'
           - 'Electronics': 'Troubleshooting/Electronics.md'
           - 'Slicer & Software': 'Troubleshooting/Slicer.md'
-  
-  #- 'Tags': tags.md
+
+  - 'Advanced Chocolate Printing':
+      - 'What Can You Print?': 'Advanced/PrintableDesigns.md'
+      - 'Designing Your Own Models': 'Advanced/DesignTips.md'
+      - 'Advanced Slicer Use': 'Advanced/Slicer.md'
+      - 'Making Large Prints': 'Advanced/LargePrints.md'
+      - 'Updating Your Printer': 'Advanced/Flashing.md'
+      - 'Troubleshooting':
+          - 'Troubleshooting/index.md'
+          - 'Common Issues': 'Troubleshooting/Help.md'
+          - 'Electronics': 'Troubleshooting/Electronics.md'
+          - 'Slicer & Software': 'Troubleshooting/Slicer.md'
+
 extra_css:
   - css/extra.css
   - "https://use.typekit.net/csv4mjm.css"

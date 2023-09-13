@@ -21,7 +21,7 @@ One such example might be this [Vase Mode Rose model by lytta on Printables](htt
 
 ![Vase Mode Rose Print](../img/101/vasemodeprint.png)
 
-To enable Vase Mode printing, see this guide in the [Advanced Slicer Setup](../Printer/AdvancedSlicer.md#vase-mode) section.
+To enable Vase Mode printing, see this guide in the [Advanced Slicer Setup](../Advanced/Slicer.md#vase-mode) section.
 
 ## Articulating Prints
 

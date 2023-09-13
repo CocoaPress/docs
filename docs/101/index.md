@@ -27,9 +27,3 @@ The Nozzle of a printer describes the diameter of the hole the additive material
 <!-- nozzle size image -->
 
 ![](../img/101/nozzle_size_dia.png)
-
-## Motion Systems
-
-Your Cocoa Press uses a configuration for moving the extruder you might not have seen before.  A CoreXY system (as described here) uses an "A" and a "B" stepper motor, to combine their motion to move the extruder.  A more "classic" motion system would have one motor per axis, but the CoreXY allows the printer to accelerate the extruder with *both* motors.  This allows faster acceleration while keeping individual motor load spread out.
-
-For more information on CoreXY motion systems, please refer to this [site](https://corexy.com/) on CoreXY cartesian motion systems.
