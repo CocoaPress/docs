@@ -30,7 +30,7 @@ Your Cocoa Press includes an M5 screw inside the extruder motor assembly that ca
 
 First, loosen the four M5 screws on the side holding the printed housing pieces to the extrusion.
 
-![](../img/printer/render_extruder_screws.png)
+![](../img/troubleshooting/move_extruder_screw.jpg)
 
 Then, Turn the M5 screw in the top left or right to raise or lower the screw.  
 
