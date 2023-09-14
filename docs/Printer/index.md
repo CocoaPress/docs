@@ -9,7 +9,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
 
 ![](../img/printer/funkypowerswitch.jpg)
 
-   - [ ]When power is turned on, do the lights on your main board turn on?  If so, it’s been successfully wired.
+ - [ ] When power is turned on, do the lights on your main board turn on?  If so, it’s been successfully wired.
 
 ## Firmware Checks
  - [ ] Does the temperature display on screen show a reasonable value for your area (typically 18-23C)
@@ -22,7 +22,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] Using the spatula that came with your printer, test that the Z proximity switch light changes when pressed to the bottom of the switch.
  - [ ] In the Homing menu, attempt to home all axes.
     - [ ] Ensure you do not have a cartridge loaded when doing this test.
-    - [ ] Afterwards, load one *without a chocolatey core inside*.
+    - [ ] Afterwards, load a cartridge  *without a chocolatey core inside*.
 
 ## Integration Checks 
  - [ ] In the Menu, disable Stepper Motors and use the Limit Switch menu to monitor the Z-probe state in software.
