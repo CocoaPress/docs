@@ -4,7 +4,6 @@ Many users share models they make online for use by others, but there are some k
 
 ## Site Choices
 
-<!-- TODO hyperlink and verify the order we want these here. -->
 - [Thangs](https://thangs.com/)
 - [Printables](https://www.printables.com/)
 - [Thingiverse](https://www.thingiverse.com/)
@@ -27,7 +26,12 @@ To enable Vase Mode printing, see this guide in the [Advanced Slicer Setup](../A
 
 Some articulating prints (like these) might work on your Cocoa Press, you'll want to inspect the layer size to ensure that there's enough chocolate in the hinges, articulating portions, and other pivoting pieces.  Otherwise, they'll be incredibly susceptible to breakage.
 
-<!-- TODO find fish model ellie did tiktok of?-->
+![]()
+
+<figure markdown>
+  ![Pepito the Goldfish](../img/101/pepito.jpg)
+  <figcaption><a href="https://cults3d.com/en/3d-model/game/pepito-the-benchmark-goldfish">Pepito the Goldfish</a></figcaption>
+</figure>
 
 ## Model Repair
 
