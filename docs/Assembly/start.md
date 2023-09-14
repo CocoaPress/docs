@@ -20,6 +20,14 @@ There are some tools you'll need that aren't included in your Cocoa Press Kit.
 - Small Phillips Screwdriver (for the button head screws on the exterior of the printer)
 - Small Flathead Screwdriver (for wire terminals on the Archim2) 
 
+### Heatset Technique
+
+When using your heat-set tool, take care to ensure the heatsets are inserted parallel to their final location to minimize drift.  
+
+![](../img/assembly/heatset_technique.jpg)
+
+Additionally, some tools may collide with the printed parts; take care to not melt them.
+
 ## Patience
 
 This is the first time this printer has been assembled by *you*.  There may be parts that aren't quite right yet, or aren't clear.  
