@@ -7,8 +7,9 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] Is your power supply switch in the correct mode for your region?
  - [ ] When power is applied to the printer, the status indicator light on the power switch should light up, even if the switch isn't in the on position.  Is the light on?
 
-<!-- TODO Add photo of funky power switch. -->
-- When power is turned on, do the lights on your main board turn on?  If so, it’s been successfully wired.
+![](../img/printer/funkypowerswitch.jpg)
+
+   - [ ]When power is turned on, do the lights on your main board turn on?  If so, it’s been successfully wired.
 
 ## Firmware Checks
  - [ ] Does the temperature display on screen show a reasonable value for your area (typically 18-23C)
@@ -16,7 +17,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
    - [ ] The extruder should move to the left.
 
  - [ ] Repeat the same test for the Y axis as a sanity check.
-   - [ ] If the movement was corrected in the last check, this is redundant.  If the motion is still incorrect, check connector wiring and/or contact support.
+     - [ ] If the movement was corrected in the last check, this is redundant.  If the motion is still incorrect, check connector wiring and/or contact support.
 
  - [ ] Using the spatula that came with your printer, test that the Z proximity switch light changes when pressed to the bottom of the switch.
  - [ ] In the Homing menu, attempt to home all axes.
