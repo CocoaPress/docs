@@ -26,7 +26,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
 ## Integration Checks 
  - [ ] In the Menu, disable Stepper Motors and use the Limit Switch menu to monitor the Z-probe state in software.
  - [ ] Using your hands, move the Bed Z leadscrew up until the proximity switch changes state on screen.  The LED in the probe should also change state.
-    - [ ] If the nozzle collides with the bed or the silicone baking sheet, you'll need to adjust the extruder as described [here.](../Troubleshooting/Printing.md#adjusting-extruder-height)
+    - [ ] If the nozzle collides with the bed or the silicone baking sheet, you'll need to adjust the extruder as described [here.](../Advanced/Troubleshooting.md#adjusting-extruder-height)
 
 ## Good to go!
 

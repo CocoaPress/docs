@@ -3,7 +3,7 @@ site_author: Cocoa Press, LLC.
 site_description: >-
   Break Free from the Mold™
 site_url: https://docs.cocoapress.com
-repo_url: """
+repo_url: ""
 use_directory_urls: false
 nav:
   - 'Home': 'index.md'
