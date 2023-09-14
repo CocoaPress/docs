@@ -14,7 +14,7 @@ This can be checked in the menu under Menu -> Mesh Leveling -> Probe Mesh.
 
 The printer will take about three minutes and probe the printable area of the bed.  If this step collides with anything, you'll want to look into [adjusting your extruder height.](#adjusting-extruder-height)
 
-<!-- photo of probing in progress -->
+![](../img/printer/probing_mesh_main_menu.jpg)
 
 ### Z-Offset
 
@@ -66,7 +66,7 @@ It's fairly common for the extruder to skip steps (or make noise where the motor
 
 If your printer's bed looks slanted when looking at it head on, but the printer can successfully probe the meshing area, use the `View Mesh` button to inspect the major differences between corners. 
 
-<!-- TODO add photo of "view mesh"b utton -->
+<!-- TODO add photo of "view mesh" button -->
 
 The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manua] where the bed screws are adjusted.
 

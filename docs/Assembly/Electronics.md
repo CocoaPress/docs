@@ -5,8 +5,7 @@
         <h2>Tools</h2>
             <ul>
                 <li>M3 Driver</li> 
-                <li>Flush Cutters</li> <!-- TODO do we want to call out that it's not included? -->
-                <li>Zipties</li> <!-- TODO do we want to call out that it's not included? -->
+                <li>Flush Cutters</li>
             </ul>
     </div>
 

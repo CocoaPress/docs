@@ -11,8 +11,6 @@ To update the firmware on your printer, you'll need to use Shumatech BOSSA, the 
 
 - Connect the printer to your computer via USB.
 
-<!-- TODO Add printer hardware button photo -->
-
 !!! info
     To ensure that you followed the above setup steps correctly, you'll want to ensure that your Cocoa Press' screen is *not* on.  Nothing showing on the screen means it's in update mode.
 

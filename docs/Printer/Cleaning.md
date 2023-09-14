@@ -10,7 +10,7 @@ Cleaning your cartridges permits you to reuse them for multiple types of chocola
 - [ ] Warm Water
 - [ ] Pushrod
 
-<!-- todo, get photos of all tools laid out. -->
+![](../img/printer/cleaning_tools.jpg)
 
 ## Prep
 
