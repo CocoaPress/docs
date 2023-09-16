@@ -37,8 +37,7 @@ nav:
         - 'Print Bed': 'Assembly/PrintBed.md'
         - 'Extruder': 'Assembly/Extruder.md'
         - 'Electronics & Wiring': 'Assembly/Electronics.md'
-        - 'Skirt & Panels': 'Assembly/Skirt.md'
-        - 'Tophat': 'Assembly/Tophat.md'
+        - 'Skirt & Panels': 'Assembly/Panels.md'
   
   - 'Getting Up and Running':
       - 'Quickstart': 'Printer/index.md'
