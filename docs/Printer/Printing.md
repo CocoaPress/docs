@@ -20,7 +20,7 @@ Once you've gone through the quickstart and verified your printer is running wel
     Custom GCode made with PrusaSlicer and Cocoa Press' profiles since version 1.1.0 should include the print time, chocolate used, and more in the filename.  If this isn't shown, the user should update their profiles within PrusaSlicer.
 
 - [ ] When asked if you want to start that file, press "yes" to begin the print.
-- [ ] The printer will begin the print by probing homing the X and Y axes, and then the Z height.  Then, it begins a purge line, to remove any chocolatey debris on the extruder's nozzle.  Depending on the profile this may vary.
+- [ ] The printer will begin the print by probing homing the X and Y axes, and then the Z height.  Then, it begins a purge line, to remove any printed debris on the printer'snozzle.  Depending on the profile this may vary.
 
 ![](../img/printer/purgeline.png)
 

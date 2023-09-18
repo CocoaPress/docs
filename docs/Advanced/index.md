@@ -8,7 +8,7 @@ As new features are released for the printer, or quality of life improvements ar
 
 ## Making Larger Prints
 
-Tips and tricks on how to make prints with more chocolate than in a single chocolatey core.
+Tips and tricks on how to make prints with more compound chocolate than in a single core.
 
 [Large Print Tips :material-arrow-right: ](LargePrints.md){ .md-button .md-button--primary}
 

@@ -22,7 +22,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] Using the spatula that came with your printer, test that the Z proximity switch light changes when pressed to the bottom of the switch.
  - [ ] In the Homing menu, attempt to home all axes.
     - [ ] Ensure you do not have a cartridge loaded when doing this test.
-    - [ ] Afterwards, load a cartridge  *without a chocolatey core inside*.
+    - [ ] Afterwards, load a cartridge  *without a chocolate compound core.
 
 ## Integration Checks 
  - [ ] In the Menu, disable Stepper Motors and use the Limit Switch menu to monitor the Z-probe state in software.
