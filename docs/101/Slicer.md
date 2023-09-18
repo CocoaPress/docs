@@ -1,6 +1,6 @@
 # The Slicer
 
-The slicer is a tool you use to convert 3D models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3D printer is different, we need to use a specific "profile", or machine configuration, to tell the slicer to produce information for the Cocoa Press specifically.
+The slicer is a tool you use to convert 3D models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3D printer is different, we need to use a specific "profile", or machine configuration, to tell the slicer to produce information for the Cocoa Press specifically.  This tool is akin to the printer driver configuration for a paper printer.  One might change the collation settings, margins, rotation, resolution, black and white or color printing, and more.  The Slicer does the same *type* of work to prep your printer for making your delicious creations.
 
 ![](../img/101/slicer.png)
 
@@ -8,13 +8,13 @@ PrusaSlicer is the slicer you'll be using for your Cocoa Press machine to make c
 
 You can download PrusaSlicer [here.](https://www.prusa3d.com/page/prusaslicer_424/)
 
-
 [PrusaSlicer Download :material-download:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}
 
-!!! tip
-    If you're looking for steps on how to add Cocoa Press to your set-up slicer, you'll want those steps [here](../Printer/SlicerSetup.md).
+## Setup
 
-## PrusaSlicer Menus
+Once you've gotten PrusaSlicer installed, you'll need to configure it for use with your Cocoa Press.  Those steps can be found [here](../Printer/SlicerSetup.md).
+
+## PrusaSlicer Tour
 
 Many of the top-bar menus in PrusaSlicer (File, Edit, Window, etc.) either have on-screen controls to be used without the top-menu, or keyboard shortcuts to make it easier to use on repeat viewings.
 
