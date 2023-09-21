@@ -1,5 +1,8 @@
 # Panels
 
+!!! info
+    This section of the assembly manual is split across two sections, as you've got to install the [Z Motor](ZAxis.md) in-between.  Take note that some of the parts listed below will be used after we return to the interior panels.
+    
 <div class="grid" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
     <div class="card">
         <h2>Tools</h2>
@@ -18,10 +21,12 @@
             <ul>
                <li>M3 Heatset Inserts (4x)</li>
                <li>M5 T-Nuts (2x)</li>
-               <li>M3 T-Nuts (12x)</li>
+               <li>M3 T-Nuts (18x)</li>
                <li>M5x10 Button Head Cap Screw (2x)</li>
-               <li>M3x8 Button Head Phillips Screw (2x)</li>
-               <li>Panel Supports (prints)</li>
+               <li>M3x8 Button Head Phillips Screw (10x)</li>
+               <li>Panel Supports (2x) (prints)</li>
+               <li>Rear Acrylic Panel (1x)</li>
+               <li>Bottom Acrylic Panel (1x)</li>
             </ul>
     </div>
 </div>
