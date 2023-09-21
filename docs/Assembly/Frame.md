@@ -21,7 +21,8 @@
                 <li>C Extrusions (2x)</li>
                 <li>B Extrusions (2x)</li>
                 <li>A Extrusion (1x)</li>
-                <li>M5x16 Button Head Cap Screw (28x)</li>
+                <li>M5x16 Button Head Cap Screw (16x)</li>
+                <li>M5x10 Button Head Cap Screw (10x)</li>
                 <li>M5 T-Nuts (10x)</li>
                 <li>Rubber Feet (4x)</li>
                 <li>Front Right / Left Base (prints)</li>
