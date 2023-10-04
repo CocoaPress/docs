@@ -40,6 +40,6 @@ To check, check the PrusaSlicer "Print Settings" -> "Output Options" -> "Complet
 
 ![](../img/printer/sequential.png)
 
-If there's a red radius around the objects, they're too close and may need to be separated.
+If there's a red radius around the objects, they're too close to print sequentially, as the extruder will collide with the part when going to print the second part.
 
 ![](../img/printer/sequential_crash.png)
