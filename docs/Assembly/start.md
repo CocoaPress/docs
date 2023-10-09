@@ -33,6 +33,6 @@ Additionally, some tools may collide with the printed parts; take care to not me
 
 This is the first time this printer has been assembled by *you*.  There may be parts that aren't quite right yet, or aren't clear.  
 
-Don't hesitate to reach out at hello@cocoapress.com so that we can correct any mistakes and clarify the documentation for both you, and for others.
+Don't hesitate to reach out at <a href="mailto:hello@cocoapress.com">hello@cocoapress.com</a> so that we can correct any mistakes and clarify the documentation for both you, and for others.
 
 ## Thank You!

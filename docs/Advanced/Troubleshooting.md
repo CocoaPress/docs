@@ -69,7 +69,7 @@ If your printer's bed looks slanted when looking at it head on, but the printer 
 
 <!-- TODO add photo of "view mesh" button -->
 
-The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manua] where the bed screws are adjusted.
+The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
 
 <!-- TODO add photo of warped bed supports vs good ones -->
 
@@ -85,4 +85,4 @@ It's possible the rubber feet on the printer may have become dislodged during pr
 
 If all rubber feet are present, inspecting that the printed pieces aren't warped and that the frame itself is level and square is a useful mitigation.
 
-In the event of further issues, you'll want to contact support for help via the email "hello [ at ] cocoapress.com".
+In the event of further issues, you'll want to contact support for help via the email <a href="mailto:hello@cocoapress.com">hello@cocoapress.com</a>
