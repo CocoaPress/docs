@@ -51,16 +51,17 @@ If your print has lines or vibrations that appear during fast moves, you may nee
 
 If this doesn't resolve the issue, you may also want to check the screw in the pivot of the extruder, as well as the button head used to retain the socket head screw listed above when latched.
 
-### Chocolate Won't Come Out
+### Chocolate Won't Extrude
 
 Use the nozzle unclogger on the nozzle while the chocolate is preheated and then attempt to extrude.  This may take several attempts due to how chocolate cools and the amount of force needed to clear the nozzle.
 
-
 ## Frame & Mechanical Troubleshooting
 
-### Extruder Making Noise
+### Extruder Making Clicking Noise
 
-It's fairly common for the extruder to skip steps (or make noise where the motor can't deliver enough energy to overcome friction) when loading chocolate. It's possible your cartridge has a clogged nozzle and may need to be fixed using an [unclogger.](#) <!-- TODO add store link to cleaning kit -->
+It's fairly common for the extruder to skip steps (or make noise where the motor can't deliver enough energy to overcome friction) when loading chocolate. Only use the Load / Unload buttons until it makes this noise and *no further* until preheating is complete.  
+
+It's also possible your cartridge has a clogged nozzle and may need to be fixed using the [unclogger in the Cleaning Kit](https://cocoapress.com/products/cleaning-tools) 
 
 ### Bed Looks Slanted
 

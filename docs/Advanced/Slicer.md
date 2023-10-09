@@ -43,3 +43,11 @@ To check, check the PrusaSlicer "Print Settings" -> "Output Options" -> "Complet
 If there's a red radius around the objects, they're too close to print sequentially, as the extruder will collide with the part when going to print the second part.
 
 ![](../img/printer/sequential_crash.png)
+
+## Overriding Profile Settings
+
+If working with different materials, or in an environment that tends to be colder or hotter than ours, you may need to subtly adjust your temperatures to improve the settings and behavior of your Cocoa Press.
+
+First, change the settings you'd like to adjust, then in the top left of the settings menu, click the "Save Preset" button. This will allow you to change the names of the profile for future use and to easily distinguish it from the stock profiles.
+
+![](../img/advanced/saveprofilemod.png)

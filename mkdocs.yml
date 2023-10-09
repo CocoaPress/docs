@@ -53,7 +53,7 @@ nav:
         - 'Cleaning Plungers': 'Printer/Plunger.md'
       - 'Storing Chocolate': 'Chocolate/FoodSafety.html#storing-chocolate'
       - 'Troubleshooting':
-          - 'Troubleshooting/index.md'
+          - 'Common Issues': 'Troubleshooting/Common.md'
 
   - 'Advanced Chocolate Printing':
       - 'What Can You Print?': 'Advanced/PrintableDesigns.md'
