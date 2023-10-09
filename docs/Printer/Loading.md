@@ -10,7 +10,7 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
 
 ## Loading
- - [ ] Insert chocolate core into cartridge body via the top opening.
+ - [ ] Insert Cocoa Core into cartridge body via the top opening.
 
   ![](../img/printer/loading/insertingchocolate.jpg)
 

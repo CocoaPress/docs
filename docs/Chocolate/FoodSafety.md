@@ -6,7 +6,7 @@ When working with your Cocoa Press, there's certain information that may be usef
 
 ## Handling
 
-Chocolate Compound Cores should be handled with washed hands, and the silicone baking mat and plungers should regularly be washed and dried carefully.  Cartridges should be washed per the steps shown [here](../Printer/Cleaning.md).
+Cocoa Cores should be handled with washed hands, and the silicone baking mat and plungers should regularly be washed and dried carefully.  Cartridges should be washed per the steps shown [here](../Printer/Cleaning.md).
 
 ## Contact Surfaces
 
@@ -20,7 +20,7 @@ Some parts of your printer will *not* be able to be considered food-safe even af
  
 ## Storing Chocolate
 
-To store your chocolate compound cores for use with your printer safely and easily, you'll want to store it between 60-75F (16-24C), and below 65% relative humidity.
+To store your Cocoa Cores for use with your printer safely and easily, you'll want to store it between 60-75F (16-24C), and below 65% relative humidity.
 
 Storage above this point may result in bloom forming on the chocolate.
 
