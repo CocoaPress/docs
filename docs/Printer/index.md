@@ -29,6 +29,12 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] Using your hands, move the Bed Z leadscrew up until the proximity switch changes state on screen.  The LED in the probe should also change state.
     - [ ] If the nozzle collides with the bed or the silicone baking sheet, you'll need to adjust the extruder as described [here.](../Advanced/Troubleshooting.md#adjusting-extruder-height)
 
+## Leveling & Meshing
+
+- [ ] Using the menu, choose the Mesh Leveling section and permit your printer time to probe all 25 points in the bed mesh.
+  - [ ] This may take some time, but is used to compensate for any small warping or distortion in the frame or printed parts.
+- [ ] Using a piece of paper, follow the steps on-screen to set your Z-Offset from the Z-Offset menu.
+
 ## Good to go!
 
 If you've made it this far, you should be ready to print your culinary creations!
