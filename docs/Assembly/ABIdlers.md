@@ -4,9 +4,10 @@
     <div class="card">
         <h2>Tools</h2>
             <ul>
-                <li>M3 Heatset Tool</li> <!-- TODO do we want to call out that it's not included? -->
-                <li>M3 Driver</li> <!-- first seen slide 49 -->
-                <li>M5 Driver</li> <!-- first seen slide 51 -->
+                <li>Heatset Insert Tool</li> 
+                <li>Soldering Iron (Not Included)</li>
+                <li>M3 Driver</li> 
+                <li>M5 Driver</li> 
             </ul>
     </div>
 

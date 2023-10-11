@@ -29,6 +29,8 @@ When using your heat-set tool, take care to ensure the heatsets are inserted par
 
 Additionally, some tools may collide with the printed parts; take care to not melt them.
 
+For a video demonstrating how to heatset your printed parts, please see <a href="https://www.youtube.com/shorts/C2rznl1uIuc">here.</a>
+
 ## Patience
 
 This is the first time this printer has been assembled by *you*.  There may be parts that aren't quite right yet, or aren't clear.  

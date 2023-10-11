@@ -9,7 +9,7 @@
 
 Compound Chocolates are made from cocoa powder and vegetable oil, to produce a tasty, easier to work with chocolate.
 
-<!-- photo of chocolate cores from store. -->
+![](../img/chocolate/cocoacore.jpg)
 
 ## Coveture Chocolate
 

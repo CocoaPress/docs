@@ -18,11 +18,11 @@ Some parts of your printer will *not* be able to be considered food-safe even af
  - FFF Printed Parts (disinfecting porous surfaces)
  - Touchscreen (contact with non-clean portions)
  
-## Storing Chocolate
+## Storing Chocolates
 
 To store your Cocoa Cores for use with your printer safely and easily, you'll want to store it between 60-75F (16-24C), and below 65% relative humidity.
 
-Storage above this point may result in bloom forming on the chocolate.
+Storage above this point may result in bloom forming on the chocolate, and severely reduces the shelf life of the printed materials.
 
 ### Bloom
 
