@@ -18,7 +18,7 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
   ![](../img/printer/loading/tiltback.jpg)
 
- - [ ] On the home screen, press "Load / Unload" and use the unload option to lower the leadscrew until the plunger adapter is visible.
+ - [ ] On the home screen, press "Load / Unload" and use the unload (down arrow) option to lower the leadscrew until the plunger adapter is visible.
 
  ![](../img/printer/loading/menuitem.jpg)
 
@@ -40,18 +40,18 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
  ![](../img/printer/loading/latch.jpg)
 
- - [ ] If printing soon, preheat chocolate using "Preheat" menu.
+ - [ ] If printing soon, preheat Cocoa Core using "Preheat" menu.
 
  ![](../img/printer/preheat_menu.png)
 
- - [ ] Select the chocolate type you're using to preheat, as a timer is shown on screen counting the twenty minutes down to ensure consistent preheating.
+ - [ ] Select the Cocoa Core type you're using to preheat, as a timer is shown on screen counting the twenty minutes down to ensure consistent preheating.
 
  ![](../img/printer/loading/preheattimer.jpg)
 
 !!! note
     Ensure the firmware version you're on is up to date if using white chocolate. Those temperatures may change over time as we dial in our settings.
 
- - [ ] Once timer expires, press and hold "Extrude" on main menu to gently push chocolate out.
+ - [ ] Once timer expires, press and hold "Extrude" on main menu to gently extrude the now softened Cocoa Core.
 
  ![](../img/printer/extrude_button_menu.png)
  
