@@ -21,3 +21,7 @@
   border: .5px solid var(--md-primary-fg-color);
   direction: ltr;
 }
+
+.md-typeset ul li {
+    margin-bottom: 0;
+}  

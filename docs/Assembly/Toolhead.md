@@ -22,9 +22,9 @@
 %}
 
 <script>
-  queueRenderPage(126);
+  queueRenderPage(140);
 </script>
 
 ## Useful Tips
 
-There are several jigs to make calibrating and assembling your extruder easier.  Be sure to use them here.
+There are several jigs to make calibrating and assembling your extruder easier.  Look in the "Tools" folder of your STLs to find them, and be sure to print them before needing them!

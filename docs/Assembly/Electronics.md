@@ -20,7 +20,7 @@
 %}
 
 <script>
-  renderPage(150);
+  renderPage(161);
   </script>
 
 ## Archim2 Mainboard

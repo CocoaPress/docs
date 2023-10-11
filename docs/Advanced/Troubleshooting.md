@@ -69,7 +69,7 @@ If your printer's bed looks slanted when looking at it head on, but the printer 
 
 <!-- TODO add photo of "view mesh" button -->
 
-The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
+The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you re-perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed is fastened to the Z motion stage.
 
 <!-- TODO add photo of warped bed supports vs good ones -->
 
