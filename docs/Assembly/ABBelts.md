@@ -1,4 +1,4 @@
-# A/B Belt Assembly
+# A/B Belt Path
 
 ![](../img/assembly/abbelts/abbelts.png)
 
