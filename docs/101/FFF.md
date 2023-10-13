@@ -8,9 +8,11 @@ The Cocoa Press works similarly to plastic printers in theory, the extruder is m
 
 ## Overhangs
 
-FFF can enable some incredible designs that wouldn't be possible with any other method of manufacture, especially for chocolate.  A common chocolate-making technique is to use molds, where the profile of a piece is taken and then filled or poured with molten chocolate.  
+FFF can enable some incredible designs that wouldn't be possible with any other method of manufacture, especially for chocolate.  See below for an example of infill pattern used in conjunction with molds to produce an incredibly unique bonbon!
 
-<!-- TODO insert photo of bonbon for reference. -->
+![](../img/101/lattice_covered.png)
+
+A common chocolate-making technique is to use molds, where the profile of a piece is taken and then filled or poured with molten chocolate.  
 
 Compared to the timeless ["Benchy"](https://www.3dbenchy.com/) test print for 3d printing, and any piece of interior detail, would be unattainable with molding.
 
