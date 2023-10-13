@@ -16,19 +16,18 @@ The assembly guide and this documentation are intended to be used as compliments
 
 <div class="grid cards" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
   <ul>
-    <li><strong>Hardware</strong></li>
-    <li><strong>Extrusion Prep</strong></li>
-    <li><strong>Frame</strong></li>
-    <li><strong>A/B Drives</strong></li>
-    <li><strong>A/B Idlers</strong></li>
-    <li><strong>Z Axis</strong></li>
-    <li><strong>X Axis</strong></li>
-    <li><strong>A/B Belts</strong></li>
-    <li><strong>Print Bed</strong></li>
-    <li><strong>Extruder</strong></li>
-    <li><strong>Electronics + Wiring</strong></li>
-    <li><strong>Skirt & Panels</strong></li>
-    <li><strong>Tophat</strong></li>
+    <li><a href="Hardware.html"><strong>Hardware</strong></a></li>
+    <li><a href="Extrusion.html"><strong>Extrusion Prep</strong></a></li>
+    <li><a href="Frame.html"><strong>Frame</strong></a></li>
+    <li><a href="ABDrives.html"><strong>A/B Drives</strong></a></li>
+    <li><a href="ABIdlers.html"><strong>A/B Idlers</strong></a></li>
+    <li><a href="ZAxis.html"><strong>Z Axis</strong></a></li>
+    <li><a href="XAxis.html"><strong>X Axis</strong></a></li>
+    <li><a href="ABBelts.html"><strong>A/B Belts</strong></a></li>
+    <li><a href="Bed.html"><strong>Print Bed</strong></a></li>
+    <li><a href="Toolhead.html"><strong>Toolhead</strong></a></li>
+    <li><a href="Electronics.html"><strong>Electronics + Wiring</strong></a></li>
+    <li><a href="ExtPanels.html"><strong>Panels</strong></a></li>
   </ul>
 </div>
 
