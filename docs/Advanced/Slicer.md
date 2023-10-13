@@ -51,3 +51,9 @@ If working with different materials, or in an environment that tends to be colde
 First, change the settings you'd like to adjust, then in the top left of the settings menu, click the "Save Preset" button. This will allow you to change the names of the profile for future use and to easily distinguish it from the stock profiles.
 
 ![](../img/advanced/saveprofilemod.png)
+
+## Supports
+ 
+To turn on supports for your print, use the "Supports" option in the main window to "Everywhere" to force supports on for your model, or for "Support Enforcers Only" to use the [Support Painting feature.](https://help.prusa3d.com/article/paint-on-supports_168584)
+
+![](../img/advanced/supports.png)

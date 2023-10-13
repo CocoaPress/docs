@@ -22,7 +22,7 @@ In the [sliced view](../101/Slicer.md#sliced-view--preview-view), use the arrow 
 
 With the printer paused during the print, use the Load / Unload menu to load your new core.
 
-Afterwards, use the preheat menu same as with normal [core loading](../Printer/Loading.md) to start the preheat timer.
+Afterwards, use the preheat menu same as with normal [Cocoa Core loading](../Printer/Loading.md) to start the preheat timer.
 
 When the timer is done, lean the nozzle of any debris on the nozzle tip to minimize the potential of interfering with the print as completed so far.
 
@@ -33,4 +33,4 @@ Afterwards, use the extrude button to ensure flow of chocolate and allow flow to
 Re-latch your extruder, and press the "resume" button on the main screen.  The print should continue as expected.
 
 !!! tip
-    In the event you move the extruder while loading a core mid-print, you'll want to home the extruder in X & Y and *not* Z.  Homing in Z will potentially result in the extruder crashing through your chocolate print.
+    In the event you bump the extruder while loading a core mid-print, you'll want to home the extruder in X & Y and *not* Z.  Homing in Z will potentially result in the extruder crashing through your chocolate print.

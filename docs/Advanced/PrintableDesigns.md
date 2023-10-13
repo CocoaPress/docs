@@ -16,8 +16,8 @@ Without doing a [mid-print core change](LargePrints.md), you can't use more choc
 
 ## Overhangs
 
-If printing a large, unsupported area, you'll likely need to use [supports], or print the model in multiple pieces and join it via other mechanisms.
+If printing a large, unsupported area, you'll likely need to use [supports](./Slicer.md#supports), or print the model in multiple pieces and join it via other mechanisms.
 
 Alternately, you can make use of supports, where more chocolate is used to generate structures for the printer to use as scaffolding.  Below depicted is a version of that.
 
-![](../img/101/benchy_supports.png/)
+![](../img/101/benchy_supports.png)
