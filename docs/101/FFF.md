@@ -8,9 +8,7 @@ The Cocoa Press works similarly to plastic printers in theory, the extruder is m
 
 ## Overhangs
 
-FFF can enable some incredible designs that wouldn't be possible with any other method of manufacture, especially for chocolate.  See below for an example of infill pattern used in conjunction with molds to produce an incredibly unique bonbon!
-
-![](../img/101/lattice_covered.png)
+FFF can enable some incredible designs that wouldn't be possible with any other method of manufacturing, especially for chocolate. 
 
 A common chocolate-making technique is to use molds, where the profile of a piece is taken and then filled or poured with molten chocolate.  
 
@@ -18,11 +16,15 @@ Compared to the timeless ["Benchy"](https://www.3dbenchy.com/) test print for 3d
 
 ![](../img/101/benchy_overhang.png)
 
+These techniques can even be combined like below, where the interior of this bon-bon was printed, and the shell was molded to produce an incredibly unique bonbon!
+
+![](../img/101/lattice_covered.png)
+
 ## Support
 
-As a user, you can use support structure, where chocolate is used as scaffolding for the rest of your print, to support large overhangs.  As chocolate cools, it doesn't instantly solidify, so this is an important step for most FFF printers as well.  Alternatively, you might be able to just look at [models]() that already have support built-in, or better yet, don't need it at all. <!-- TODO add link to integral support models -->
+As a user, you can use support structure, where chocolate is used as scaffolding for the rest of your print, to support large overhangs.  As chocolate cools, it doesn't instantly solidify, so this is an important step for most FFF printers as well.  Alternatively, you might be able to just look at models that already have support built-in, or better yet, don't need it at all.  Some parts of the Cocoa Press are actually printed with integral supports.
 
-An example of a print that expects support might be [this] model of X, where a print that doesn't need it (especially if some small overhangs and drooping is acceptable) might be Y.
+An example of a print that expects support might be the [extruder cover piece](https://github.com/CocoaPress/PrintedParts/blob/main/STLs/XY%20Gantry/X%20Gantry/Extruder/extruder_shell_front.stl), where a print that doesn't need it (especially if some small overhangs and drooping is acceptable) might be the [Benchy](https://www.3dbenchy.com/), where depending on a wide variety of factors, can effect the output quality.
 
 ![](../img/101/benchy_supports.png)
 
