@@ -120,17 +120,24 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/CocoaPress
+      title: Cocoa Press Twitter
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/CocoaPress
+      title: Cocoa Press Instagram
     - icon: fontawesome/brands/tiktok
       link: http://tiktok.com/@elianarose66
-      title: "Support Forum"
+      title: Ellie's TikTok
     - icon: material/email-fast
       link: mailto:hello@cocoapress.com
+      title: Support Email
     - icon: octicons/globe-16
       link: https://cocoapress.com/
+      title: Cocoa Press Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/CocoaPress/
+      title: Cocoa Press GitHub Organization
   consent:
-    title: Cookie consent
+    title: Cookie Consent
     description: >- 
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
