@@ -1,5 +1,9 @@
 # Frame
 
+!!! info
+    This section of the assembly manual is split across multiple sections.  Take note that some of the parts listed below will be used at different points in the build.
+    
+
 <div class="grid" style="grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));">
     <div class="card">
         <h2>Tools</h2>
