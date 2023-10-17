@@ -111,6 +111,9 @@ plugins:
        height: auto
        zoomable: true
        draggable: true
+    - redirects:
+        redirect_maps:
+          'quickstart': 'Printer/index.md'
 
 copyright: >
   Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>

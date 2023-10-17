@@ -12,7 +12,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] When power is turned on, do the lights on your main board turn on?  If so, it’s been successfully wired.
 
 ## Firmware Checks
- - [ ] Does the temperature display on screen show a reasonable value for your area (typically 18-23C)
+ - [ ] Does the temperature display on screen show a reasonable temperature for your region (typically 18-25C)
  - [ ] In the Menu, enter the "XYZ Move" menu, and attempt to Move X negative (starting at 140mm, reduce to 130mm)
    - [ ] The extruder should move to the left.
 
@@ -22,7 +22,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
  - [ ] Using the spatula that came with your printer, test that the Z proximity switch light changes when pressed to the bottom of the switch.
  - [ ] In the Homing menu, attempt to home all axes.
     - [ ] Ensure you do not have a cartridge loaded when doing this test.
-    - [ ] Afterwards, load a cartridge  *without a Cocoa Core.
+    - [ ] Afterwards, load a cartridge  *without* a Cocoa Core.
 
 ## Integration Checks 
  - [ ] In the Menu, disable Stepper Motors and use the Limit Switch menu to monitor the Z-probe state in software.
