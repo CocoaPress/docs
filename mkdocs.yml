@@ -113,7 +113,7 @@ plugins:
        draggable: true
     - redirects:
         redirect_maps:
-          'quickstart': 'Printer/index.md'
+          'quickstart.md': 'Printer/index.md' #Must include original ending with .md even with use_directory_urls set to true.  
 
 copyright: >
   Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>
