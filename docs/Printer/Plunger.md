@@ -21,8 +21,8 @@ Worn plungers may have damage to their seal lip, or have collapsed, been crushed
 
 ## Cleaning Steps
 
- - [] Wipe or break off any large chunks of chocolate with paper towels.
- - [] Submerge plungers in warm water for approximately ten minutes to soften chocolate stuck between gaps.
- - [] Using tube brush, clean inside ridge of plunger to remove interior chocolate.
- - [] Pat dry with paper towels, then allow to air-dry.
- - [] Double-check all chocolate is removed from interior groove.
+- [ ] Wipe or break off any large chunks of chocolate with paper towels.
+- [ ] Submerge plungers in warm water for approximately ten minutes to soften chocolate stuck between gaps.
+- [ ] Using tube brush, clean inside ridge of plunger to remove interior chocolate.
+- [ ] Pat dry with paper towels, then allow to air-dry.
+- [ ] Double-check all chocolate is removed from interior groove.
