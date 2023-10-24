@@ -12,14 +12,12 @@ Your printer assembly will take approximately *10-12* hours.  It's heavily sugge
 
 ## Tools
 
-There are some tools you'll need that aren't included in your Cocoa Press Kit.
+There are some tools you'll need that aren't included in your Cocoa Press Kit to fully assemble it.
 
 - Wire Cutters (for trimming zip ties)
 - Soldering Iron (to insert your heat-seat inserts)
-    - Your kit comes with a heat-set tool capable of fitting M2 and M3 inserts. Test-fit the tool to your soldering iron before beginning assembly.
-- Small Phillips Screwdriver (for the button head screws on the exterior of the printer)
-- Small Flathead Screwdriver (for wire terminals on the Archim2) 
-- Paper Towels (to wipe off any excess chocolate)
+    - Your kit comes with a heat-set tool capable of fitting M2 and M3 inserts. Test-fit the tool to your soldering iron before beginning assembly.  
+    - In the event your soldering iron doesn't work, [this](https://www.amazon.com/Adjustable-Temperature-Controlled-Thermostatic-Electronic/dp/B089SKWMPT/) is a known working one compatible with the one provided.
 
 ### Heatset Technique
 
