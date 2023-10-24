@@ -33,10 +33,10 @@ nav:
         - 'Z Axis': 'Assembly/ZAxis.md'
         - 'Bed': 'Assembly/Bed.md'
         - 'A/B Drives' : 'Assembly/ABDrives.md'
-        - 'X/Y Gantry': ''
+        - 'X/Y Gantry': 'Assembly/XYGantry.md'
         - 'A/B Idlers': 'Assembly/ABIdlers.md'
-        - 'X/Y Joints': ''
-        - 'X Carriage': 'Assembly/XAxis.md'
+        - 'X/Y Joints': 'Assembly/XYJoints.md'
+        - 'X Carriage': 'Assembly/XCarriage.md'
         - 'A/B Belt Path': 'Assembly/ABBelts.md'
         - 'Toolhead': 'Assembly/Toolhead.md'
         - 'Electronics': 'Assembly/Electronics.md'
@@ -56,6 +56,7 @@ nav:
           - 'Common Issues': 'Troubleshooting/Common.md'
 
   - 'Advanced Chocolate Printing':
+      - 'Advanced/index.md' 
       - 'What Can You Print?': 'Advanced/PrintableDesigns.md'
       - 'Designing Your Own Models': 'Advanced/DesignTips.md'
       - 'Advanced Slicer Use': 'Advanced/Slicer.md'

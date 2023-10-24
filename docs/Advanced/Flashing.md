@@ -57,4 +57,5 @@ Expand the "Custom Firmware Update" button and use the file picker to select the
 
 Click the "Update" button, and select the serial port attached to your Cocoa Press.
 
-<!-- TODO: Add Chrome menu of flashing it. -->
+!!! info
+    You may need to select the serial port, click "OK", and then repeat the process.  This is due to a serial port permissions change in Chrome.
