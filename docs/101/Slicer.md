@@ -65,4 +65,4 @@ Ensuring this *isn't* selected will allow macOS to open more than one copy of Pr
 
 This guide will explain more in-depth uses of PrusaSlicer with your Cocoa Press.  Follow it here.
 
-[Advanced Slicer Use :material-arrow-right:](https://www.prusa3d.com/page/prusaslicer_424/){ .md-button .md-button--primary}
+[Advanced Slicer Use :material-arrow-right:](../Advanced/Slicer.md){ .md-button .md-button--primary}

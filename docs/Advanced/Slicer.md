@@ -44,6 +44,22 @@ If there's a red radius around the objects, they're too close to print sequentia
 
 ![](../img/printer/sequential_crash.png)
 
+## Inserting Vectors
+
+!!! warning
+
+    This feature is not yet released to the general public, but is expected to work with your Cocoa Press when released.
+
+![](../img/advanced/svg_embed.png)
+
+As of Version 2.7.0, PrusaSlicer allows a user to directly insert a vector drawing in SVG format as a modifier.  This allows you to emboss logos, text, or other graphics into your models, or as their own models without additional tooling.
+
+![](../img/advanced/addsvg.png)
+
+If used as a sub-part, you can produce (for example) custom chocolate bar designs more easily.  
+
+![Screenshot of PrusaSlicer showing multi-body use of SVG embeds](../img/advanced/bardesign.png)
+
 ## Overriding Profile Settings
 
 If working with different materials, or in an environment that tends to be colder or hotter than ours, you may need to subtly adjust your temperatures to improve the settings and behavior of your Cocoa Press.
