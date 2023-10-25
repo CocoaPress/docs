@@ -5,7 +5,7 @@ Once you've gone through the quickstart and verified your printer is running wel
 ## Prerequisites
 
  - [ ] Your Cocoa Press should have the preheating timer run out, meaning that it's had time to warm up the core for printing.
- - [ ] You should have probed the mesh bed leveling of your printer, as well as set the Z offset per this guide [here.](#) <!-- TODO add link to probing and meshing? -->
+ - [ ] You should have probed the mesh bed leveling of your printer, as well as set the Z offset per this guide [here.](../Advanced/Troubleshooting.md#z-offset) 
 
 ## Steps
 

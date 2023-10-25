@@ -10,7 +10,7 @@ Different nozzles constrain the maximum layer height you can print with before t
 
 Z offset describes the space the printer adds to the detection area of your printer to define the "zero" of the print area's height.  Too far away and the first layer of chocolate doesn't solidly link to the silicone baking sheet.  Too close, and your nozzle will collide with the silicone baking sheet.  
 
-This setting is user adjustable and can be tuned in the [Z Offset Wizard.](../Advanced/Troubleshooting.md#probe-mesh-area)
+This setting is user adjustable and can be tuned in the [Z Offset Wizard.](../Advanced/Troubleshooting.md#z-offset)
 
 ![A replica of the "Z Probe Wizard" menu screen from the Cocoa Press printer.](../img/101/z_probe_wizard_mockup.png)
 
