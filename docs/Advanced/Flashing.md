@@ -23,7 +23,7 @@ Download the preferred version of BOSSA for your computer from GitHub [here.](ht
 
     If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2) to use desktop BOSSA, but you should only use this fix if you know what you're doing.
 
-Download the latest Cocoa Press firmware from [here.](#) <!-- TODO ADD FIRMWARE LINK -->
+Download the latest Cocoa Press firmware from [here.](https://github.com/CocoaPress/Firmware/releases/latest) 
 
 When opening BOSSA, it should look like this.  
 
