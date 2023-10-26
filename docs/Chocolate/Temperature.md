@@ -2,7 +2,7 @@
 
 ## Basic Use
 
-While we suggest the (environment)[#environment] be controlled fairly well, and as close to 60F / 15.5C as reasonably possible, you may find your region or altitude needs to have the temperature adjusted before extruding correctly.  Increasing the temperature by 0.1F and waiting 2-3 minutes before attempting to extrude the Cocoa Core during the [Loading Step](../Printer/Loading.md) may help, repeat until liquedous.  
+While we suggest the [environment](#environment) be controlled fairly well, and as close to 60F / 15.5C as reasonably possible, you may find your region or altitude needs to have the temperature adjusted before extruding correctly.  Increasing the temperature by 0.1F and waiting 2-3 minutes before attempting to extrude the Cocoa Core during the [Loading Step](../Printer/Loading.md) may help, repeat until liquedous.  
 
 Also remember that the colder the environment, the more likely clogs are to form during the loading and heating step of printer use.  They can be often unblocked by waiting 5m, or by using the nozzle unclogger from the [Cleaning Kit](../Printer/Cleaning.md)
 
