@@ -14,8 +14,6 @@ If your printer's bed looks slanted when looking at it head on, but the printer 
 
 The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
 
-<!-- TODO add photo of warped bed supports vs good ones -->
-
 Furthering this, you may also need to inspect and potentially re-print the plastic pieces supporting the bed, as warping in this area can signficantly effect the bed leveling.
 
 ## Wobbly or Loose Frame
@@ -28,4 +26,11 @@ It's possible the rubber feet on the printer may have become dislodged during pr
 
 If all rubber feet are present, inspecting that the printed pieces aren't warped and that the frame itself is level and square is a useful mitigation.
 
+## Dirty Probe
+
+When printing, it's possible stringing or nozzle issues may result in your Z-Offset Probe becoming dirty.  Disconnect the cable lead as shown in the photo, unscrew the two M3s, and wipe the sensor off thoroughly with paper towels.  Do not use water.  Be sure to (re-probe) and (re-mesh) the bed afterwards.
+
+![Probe Wire Connection](../img/troubleshooting/probeboi.jpg)
+
 In the event of further issues, you'll want to contact support for help via the email <a href="mailto:hello@cocoapress.com">hello@cocoapress.com</a>
+
