@@ -2,7 +2,9 @@
 
 ## Pause Print
 
-PrusaSlicer and Marlin Firmware allow you to instruct your printer to pause at a given point in the print.  This can allow you to make creative and imaginative prints, like [hot cocolate cocoa bombs](#) <!-- TODO link hot chocolate cocoa bombs and/or add photos. -->
+PrusaSlicer and Marlin Firmware allow you to instruct your printer to pause at a given point in the print.  This can allow you to make creative and imaginative prints, like hot cocoa bombs! <!-- TODO link hot chocolate cocoa bombs and/or add photos. -->
+
+![](../img/advanced/hotcocoabomb.jpg)
 
 In the [sliced view](../101/Slicer.md#sliced-view--preview-view), use the arrow sliders on the right pane of the view to go up and down through the layers printed, and right click the "plus" icon to bring up the menu. Select "Add pause Print".
 
