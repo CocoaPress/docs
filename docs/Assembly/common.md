@@ -14,7 +14,7 @@
 <script>
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-var url = '../assets/assembly_manual.pdf';
+var url = '/assets/assembly_manual.pdf';
 
 // Loaded via <script> tag, create shortcut to access PDF.js exports.
 var pdfjsLib = window['pdfjs-dist/build/pdf'];

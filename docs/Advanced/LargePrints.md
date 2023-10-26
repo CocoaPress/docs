@@ -2,7 +2,7 @@
 
 ## Pause Print
 
-PrusaSlicer and Marlin Firmware allow you to instruct your printer to pause at a given point in the print.  This can allow you to make creative and imaginative prints, like hot cocoa bombs! <!-- TODO link hot chocolate cocoa bombs and/or add photos. -->
+PrusaSlicer and Marlin Firmware allow you to instruct your printer to pause at a given point in the print.  This can allow you to make creative and imaginative prints, like hot cocoa bombs!
 
 ![](../img/advanced/hotcocoabomb.jpg)
 

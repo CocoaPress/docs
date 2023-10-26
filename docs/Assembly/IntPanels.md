@@ -36,5 +36,5 @@
 %}
 
 <script>
-  queueRenderPage(24);
+  queueRenderPage(26);
 </script>
