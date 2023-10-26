@@ -1,6 +1,8 @@
 # The Slicer
 
-The slicer is a tool you use to convert 3D models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3D printer is different, we need to use a specific "profile", or machine configuration, to tell the slicer to produce information for the Cocoa Press specifically.  This tool is akin to the printer driver configuration for a paper printer.  One might change the collation settings, margins, rotation, resolution, black and white or color printing, and more.  The Slicer does the same *type* of work to prep your printer for making your delicious creations.
+The slicer is a tool you use to convert 3D models downloaded or made on your computer to instructions for layer-by-layer fabrication by your Cocoa Press.  Since each 3D printer is different, we need to use a specific "profile", or machine configuration, to tell the slicer to produce information for the Cocoa Press specifically.  
+
+The slicer is akin to the printer driver configuration for a paper printer.  One might change the collation settings, margins, rotation, resolution, black and white or color printing, and more.  The Slicer does the same *type* of work to prep your printer for making your delicious creations.
 
 ![](../img/101/slicer.png)
 
