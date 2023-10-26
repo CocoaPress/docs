@@ -82,20 +82,16 @@ theme:
     text:
       "museo-sans"
   features:
-    - navigation.tracking #This will automatically produce a link at the top of the page with the current location for copying for people more trivially.
+    - navigation.tracking 
     - navigation.expand
-    #- toc.autohide  #Automatically hides the header when the user scrolls past a certain point.
-    #- navigation.indexes
     - navigation.path
-    # - navigation.instant
-    # - navigation.instant.prefetch
     - navigation.sections
     - toc.follow
     - search.share
     - search.suggest
-    - navigation.prune #Automatically remove non-rendered HTML from the menu items, shrinking larger sites (and we're getting up there tbh.)
+    - navigation.prune 
     - content.tooltips
-    - content.tabs.link #Automatic linking of pages with the same type (ie DSP or GCode, etc.)
+    - content.tabs.link 
 plugins:
     - search
     - include-markdown
