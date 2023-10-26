@@ -118,6 +118,7 @@ plugins:
         redirect_maps:
           'quickstart.md': 'Printer/index.md' #Must include original ending with .md even with use_directory_urls set to true.  
           'printedparts.md': 'https://thangs.com/designer/Cocoa%20Press/3d-model/Cocoa%20Press%203D%20Printed%20Parts-939895'
+          'Troubleshooting/index.md': 'Troubleshooting/Common.md'
 
 copyright: >
   Copyright &copy; <a href="https://cocoapress.com/">Cocoa Press, LLC</a>

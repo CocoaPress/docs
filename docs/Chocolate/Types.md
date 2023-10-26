@@ -7,7 +7,7 @@
 
 ## Compound Chocolate
 
-Compound Chocolates are made from cocoa powder and vegetable oil, to produce a tasty, easier to work with chocolate.
+Compound Chocolates are made from cocoa powder and vegetable oil, to produce a tasty, easier to work with chocolate.  
 
 ![](../img/chocolate/cocoacore.jpg)
 
@@ -15,5 +15,4 @@ Compound Chocolates are made from cocoa powder and vegetable oil, to produce a t
 
 Coveture Chocolates are made from cocoa butter and chocolate liquor, to produce a delicious, temperable chocolate.
 
-<!-- photo of sexy chocolate from someone else we like (bonbon photos?) -->
-
+![](../img/chocolate/bonbons.jpg)
