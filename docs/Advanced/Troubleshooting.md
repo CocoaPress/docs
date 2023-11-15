@@ -1,5 +1,14 @@
 # Troubleshooting For Advanced Users
 
+## Electronics & Setup Troubleshooting
+
+### My Display Won't Turn On
+
+If your display is not showing content after assembling the printer, you may want to verify the order of your EXP1/EXP2 cables matches the assembly manual.  Swapping the cables won't *damage* your printer, but it will result in the controller not knowing the correct "location" of your display and SD card reader.
+
+### My Display is All White
+If your display after assembly is showing a full white screen and nothing else, it's possible your flat flex cable (FFC) between the actual LCD Panel and your display controller isn't properly seated.  Follow the display assembly steps in the [Assembly Manual](../Assembly/index.md) and verify that the cable is fully inserted.
+
 ## Extrusion & Printing Troubleshooting
 
 ### First Layer Height Issues
@@ -86,3 +95,9 @@ It's possible the rubber feet on the printer may have become dislodged during pr
 If all rubber feet are present, inspecting that the printed pieces aren't warped and that the frame itself is level and square is a useful mitigation.
 
 In the event of further issues, you'll want to contact support for help via the email <a href="mailto:hello@cocoapress.com">hello@cocoapress.com</a>
+
+## Environmental Troubleshooting
+
+### The Printer is reporting MIN_TEMP and not letting me print!
+
+In the event your room is below about 10C / 50F, the printer's safety mechanism for thermals may be enabled.  Because the Cocoa Cores cannot be safely stored in this temperature, we suggest you warm your environment up, or move your printer to a better controlled environment.  
