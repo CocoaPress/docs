@@ -2,6 +2,9 @@
 
 Once you've gone through the quickstart and verified your printer is running well, and you've loaded chocolate, you're ready to begin printing with your Cocoa Press!
 
+!!! info
+
+The Cocoa Press' SD card came preloaded with sample GCode for both the 1.6mm and 0.8mm nozzle.  In the event the SD card is lost, or the contents aren't usable, those can be downloaded [here.](../assets/Included_GCode.zip)
 ## Prerequisites
 
  - [ ] Your Cocoa Press should have the preheating timer run out, meaning that it's had time to warm up the core for printing.
@@ -15,9 +18,6 @@ Once you've gone through the quickstart and verified your printer is running wel
 <!-- TODO add photo of main menu with media selected -->
 
 - [ ] Select your GCode file with the media button.
-
-!!! info
-    Custom GCode made with PrusaSlicer and Cocoa Press' profiles since version 1.1.0 should include the print time, chocolate used, and more in the filename.  If this isn't shown, the user should update their profiles within PrusaSlicer.
 
 - [ ] When asked if you want to start that file, press "yes" to begin the print.
 - [ ] The printer will begin the print by probing homing the X and Y axes, and then the Z height.  Then, it begins a purge line, to remove any printed debris on the printer'snozzle.  Depending on the profile this may vary.
