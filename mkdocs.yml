@@ -50,6 +50,7 @@ nav:
       - 'Printing': 'Printer/Printing.md'
       - 'Cleaning':
         - 'Cleaning Cartridges': 'Printer/Cleaning.md'
+        - 'Cleaning Build Surfaces': 'Printer/SiliconeMat.md'
         - 'Cleaning Plungers': 'Printer/Plunger.md'
       - 'Storing Chocolate': 'Chocolate/FoodSafety/#storing-cocoa-cores'
       - 'Troubleshooting':

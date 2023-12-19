@@ -16,7 +16,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
 Cocoa Press has written a guided test to help you verify your printer functions as intended.  Included on the SD Card that comes with your printer will be "test.gcode".
 
 !!! info
-    Some early printers may not have this file present.  Users can be download the file [here](/assets/test.gcode).
+    Some early printers may not have this file present.  Users can be download the file [here](../assets/test.gcode).
 
 ## Leveling & Meshing
 

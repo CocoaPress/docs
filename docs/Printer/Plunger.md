@@ -6,7 +6,6 @@ However, these parts are *wear* parts, and will need to be replaced over time.
 
 ## Good Plungers
 
-
 ![Intact, undamaged plunger](../img/printer/loading/good_plunger.png)
 
 Good plungers have intact upper lips, as well as appear relatively circular.  Any damage takes it into the below category.
@@ -16,8 +15,6 @@ Good plungers have intact upper lips, as well as appear relatively circular.  An
 Worn plungers may have damage to their seal lip, or have collapsed, been crushed, or otherwise don't function as intended.  These should be disposed of.
 
 ![](../img/printer/loading/damaged_plunger.jpg)
-
-<!-- TODO PLACEHOLDER replace Marcio photo. -->
 
 ## Cleaning Steps
 
