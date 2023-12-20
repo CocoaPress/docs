@@ -14,7 +14,7 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
   ![](../img/printer/loading/insertingchocolate.jpg)
 
- - [ ] Tilt back the extruder assembly on the printer carefully.
+ - [ ] Unlatch and tilt back the extruder assembly on the printer carefully.
 
   ![](../img/printer/loading/tiltback.jpg)
 
@@ -36,7 +36,8 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
     - [ ] This step removes air from the cartridge and ensures print uniformity.
 
 ## Print Prep
- - [ ] Tilt the extruder back vertical, and secure with latch.
+ - [ ] Tilt the extruder back into the vertical position.
+ - [ ] Secure with latch.
 
  ![](../img/printer/loading/latch.jpg)
 
