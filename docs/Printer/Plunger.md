@@ -23,3 +23,7 @@ Worn plungers may have damage to their seal lip, or have collapsed, been crushed
 - [ ] Using tube brush, clean inside ridge of plunger to remove interior chocolate.
 - [ ] Pat dry with paper towels, then allow to air-dry.
 - [ ] Double-check all chocolate is removed from interior groove.
+
+## Unloading
+
+In your kit is also provided a delrin push-rod, to make removing the plungers easier should they become stuck inside a cartridge.  Simply unscrew the nozzle and use the push rod to firmly eject the cartridge before washing thoroughly.

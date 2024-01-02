@@ -59,3 +59,7 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 ## Done!
 
 You're now ready to print your next amazing creation!
+
+## Unloading
+
+In your kit is also provided a delrin push-rod, to make removing the plungers easier should they become stuck inside a cartridge.  Simply unscrew the nozzle and use the push rod to firmly eject the cartridge before washing thoroughly.
