@@ -19,6 +19,8 @@ The 'disabled' state of an endstop is grey, an "off" endstop is Cocoa Press brow
 
 When a thermistor (temperature sensor) for the extruder is disconnected, the display on the homepage may show one temperature value as being -65C.  Preheating your Cocoa Cores will cause a MIN_TEMP error as listed [above](#the-printer-is-reporting-min_temp-and-not-letting-me-print).
 
+This can be a wire plugged into the wrong port (verify the connectors match the Assembly Manual), or a crushed wire.  For further assistance please join our Discord and open a ticket, or email support.  
+
 ## Extrusion & Printing Troubleshooting
 
 ### First Layer Height Issues
