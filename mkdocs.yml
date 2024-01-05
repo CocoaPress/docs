@@ -62,7 +62,10 @@ nav:
       - 'Designing Your Own Models': 'Advanced/DesignTips.md'
       - 'Advanced Slicer Use': 'Advanced/Slicer.md'
       - 'Making Large Prints': 'Advanced/LargePrints.md'
-      - 'Updating Your Printer': 'Advanced/Flashing.md'
+      - 'Updating Your Printer': 
+          - 'Advanced/Flashing.md'
+          - 'Apple Silicon Steps': 'Advanced/Flashing/#__tabbed_1_3'
+          - 'Windows, Linux, Other Steps': 'Advanced/Flashing/#__tabbed_1_2'
       - 'Troubleshooting': 'Advanced/Troubleshooting.md'
 
 extra_css:

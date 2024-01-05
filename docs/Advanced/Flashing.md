@@ -1,8 +1,10 @@
 # Flashing New Firmware
 
-To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.
+## Cocoa Press Firmware
 
-## Prep
+Download the latest Cocoa Press firmware from [here.](https://github.com/CocoaPress/Firmware/releases/latest)
+
+## Setting Update Mode
 
 - Before flashing, be sure that your printer is completely off.
 - Using the erase button inside the USB panel on the left side of the printer, hold this button while turning the printer on.  After three seconds, you can release.
@@ -14,48 +16,56 @@ To update the firmware on your printer, you'll need to use Shumatech BOSSA, the 
 !!! info
     To ensure that you followed the above setup steps correctly, you'll want to ensure that your Cocoa Press' screen is *not* on.  Nothing showing on the screen means it's in update mode.
 
-### Download
+Please select the type of computer you have before proceeding.
 
-Download the preferred version of BOSSA for your computer from GitHub [here.](https://github.com/shumatech/BOSSA/releases)
+=== "Select Type"
 
-!!! caution
-    There are known issues with desktop BOSSA not working correctly on macOS M1/M2 computers.  Please see the [below steps](#apple-silicon-mac-steps) for a workaround.
+    <!-- empty -->
 
-    If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2) to use desktop BOSSA, but you should only use this fix if you know what you're doing.
+=== "Windows / Linux / Intel Macintosh"
 
-Download the latest Cocoa Press firmware from [here.](https://github.com/CocoaPress/Firmware/releases/latest) 
+    To update the firmware on your printer, you'll need to use Shumatech BOSSA, the preferred flashing tool for the brains of the Cocoa Press.
 
-When opening BOSSA, it should look like this.  
+    ### Download BOSSA
 
-![](../img/flashing_firmware/bossa_1.png){ align=center}
+    Download the preferred version of BOSSA for your computer from GitHub [here.](https://github.com/shumatech/BOSSA/releases)
 
-Use the "File" section to choose the firmware for the printer.  
+    !!! caution
+        There are known issues with desktop BOSSA not working correctly on macOS M1/M2 computers.  Please see the [below steps](#apple-silicon-mac-steps) for a workaround.
 
-Select the appropriate serial port for your printer.  
+        If you're a technical user, there appears to be a workaround listed [here](https://forum.duet3d.com/topic/11445/flashing-firmware-on-mac-os-x/2) to use desktop BOSSA, but you should only use this fix if you know what you're doing.
 
-!!! info
-    BOSSA will show "connected" with a string of letters and numbers including "SAM" if it's the correct connected device.  
+    When opening BOSSA, it should look like this.  
 
-Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on your printer.
+    ![](../img/flashing_firmware/bossa_1.png){ align=center}
 
-## Apple Silicon Mac Steps
+    Use the "File" section to choose the firmware for the printer.  
 
-To flash to your Macintosh, SynDaver has made a web slicer that includes flashing firmware tools for the type of control board your Cocoa Press uses.  In short, it can be used to update your printer's firmware same as BOSSA above can be.
+    Select the appropriate serial port for your printer.  
 
-!!! note
-    This beta tool only works on Chrome due to the use of webUSB.  Safari and Firefox don't yet support WebUSB.
+    !!! info
+        BOSSA will show "connected" with a string of letters and numbers including "SAM" if it's the correct connected device.  
 
-Open the SynDaver Web Slicer Beta [here.](https://syndaverco.github.io/slicer-beta/)
+    Select "Erase All" and "Boot to flash", then "Write" to put the new firmware on your printer.
 
-In the left-pane, use the dropdown to select "Advanced Features".
+=== "Apple Silicon / All Others"
 
-![](../img/flashing_firmware/syndaverflash-menu.png)
+    To flash to your Macintosh, SynDaver has made a web slicer that includes flashing firmware tools for the type of control board your Cocoa Press uses.  In short, it can be used to update your printer's firmware same as BOSSA above can be.
 
-Expand the "Custom Firmware Update" button and use the file picker to select the CocoaPress.bin firmware downloaded earlier.
+    !!! note
+        This beta tool only works on Chrome due to the use of webUSB.  Safari and Firefox don't yet support WebUSB.
 
-![](../img/flashing_firmware/syndaverflash_selectfile.png)
+    Open the SynDaver Web Slicer Beta [here.](https://syndaverco.github.io/slicer-beta/)
 
-Click the "Update" button, and select the serial port attached to your Cocoa Press.
+    In the left-pane, use the dropdown to select "Advanced Features".
 
-!!! info
-    You may need to select the serial port, click "OK", and then repeat the process.  This is due to a serial port permissions change in Chrome.
+    ![](../img/flashing_firmware/syndaverflash-menu.png)
+
+    Expand the "Custom Firmware Update" button and use the file picker to select the CocoaPress.bin firmware downloaded earlier.
+
+    ![](../img/flashing_firmware/syndaverflash_selectfile.png)
+
+    Click the "Update" button, and select the serial port attached to your Cocoa Press.
+
+    !!! info
+        You may need to select the serial port, click "OK", and then repeat the process.  This is due to a serial port permissions change in Chrome.
