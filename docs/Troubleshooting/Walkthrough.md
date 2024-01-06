@@ -1,6 +1,6 @@
 # Troubleshooting Walkthrough
 
-Below are several common issues users have when attempting to get their printer working & running well.  They are generally in order of dependent steps, so it may require reading prior tasks to verify function.
+A choose-your-adventure in making fixing your Cocoa Press not quite as much of an adventure.  Not all potential issues are reflected below, please check the [Advanced Troubleshooting](../Advanced/Troubleshooting.md) for more troubleshooting steps.
 
 ??? question "Screen Won't Turn On"
 
@@ -23,6 +23,8 @@ Below are several common issues users have when attempting to get their printer 
         ??? failure "No Lights"
 
             You'll want to verify that your power supply output wiring mirrors the assembly manual on/around page 183 and that your region switch is on "110V" if in the United States or Canada.
+
+            Additionally, ensure that a fuse is in the fuse holder of the power connector unit, and that it's not damaged or tripped.
 
         ![](../img/troubleshooting/fangrille_green_only.jpg)
 
