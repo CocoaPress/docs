@@ -1,4 +1,4 @@
-# Troubleshooting Walkthrough
+# Initial Setup Troubleshooting Walkthrough
 
 A choose-your-adventure in making fixing your Cocoa Press not quite as much of an adventure.  Not all potential issues are reflected below, please check the [Advanced Troubleshooting](../Advanced/Troubleshooting.md) for more troubleshooting steps.
 

@@ -1,5 +1,10 @@
 # Common Issues
 
+??? question "Nozzle is dragging into the silicone baking sheet!"
+
+    You'll want to use the Z-Probe Offset menu item to lift your nozzle away from the print surface.
+
+
 ## My nozzle clogs often!
 
 It's possible the stock temperatures are too cold for your environment.  This is especially true for seasonal swings.  It's suggested you print a "known good" model and increment the body and nozzle temperature by .1C after giving it time to more evenly distribute the heat. 
@@ -15,6 +20,10 @@ If your printer's bed looks slanted when looking at it head on, but the printer 
 The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
 
 Furthering this, you may also need to inspect and potentially re-print the plastic pieces supporting the bed, as warping in this area can signficantly effect the bed leveling.
+
+## Z-Offset
+
+If probing completes successfully, you'll need a sheet of plain printer paper to adjust the Z-offset.  Using the Menu -> Probe Z Offset.  Follow the steps on screen to adjust the spacing between your nozzle and bed for a consistent first layer.
 
 ## Wobbly or Loose Frame
 
