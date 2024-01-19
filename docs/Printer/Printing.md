@@ -3,8 +3,8 @@
 Once you've gone through the quickstart and verified your printer is running well, and you've loaded chocolate, you're ready to begin printing with your Cocoa Press!
 
 !!! info
-
-The Cocoa Press' SD card came preloaded with sample GCode for both the 1.6mm and 0.8mm nozzle.  In the event the SD card is lost, or the contents aren't usable, those can be downloaded [here.](../assets/Included_GCode.zip)
+    The Cocoa Press' SD card came preloaded with sample GCode for both the 1.6mm and 0.8mm nozzle.  In the event the SD card is lost, or the contents aren't usable, those can be downloaded [here.](../assets/Included_GCode.zip)
+    
 ## Prerequisites
 
  - [ ] Your Cocoa Press should have the preheating timer run out, meaning that it's had time to warm up the core for printing.
