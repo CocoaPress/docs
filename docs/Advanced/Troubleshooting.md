@@ -88,11 +88,7 @@ It's also possible your cartridge has a clogged nozzle and may need to be fixed 
 
 If your printer's bed looks slanted when looking at it head on, but the printer can successfully probe the meshing area, use the `View Mesh` button to inspect the major differences between corners. 
 
-<!-- TODO add photo of "view mesh" button -->
-
-The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you re-perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed is fastened to the Z motion stage.
-
-<!-- TODO add photo of warped bed supports vs good ones -->
+The maximum we'd suggest is about 3mm corner to corner, and if your printer exceeds this, it's highly suggested you perform the [Assembly Manual](../Assembly/index.md) steps where the bed is fastened to the Z motion stage (Section: Bed (pg. 42))
 
 Furthering this, you may also need to inspect and potentially re-print the plastic pieces supporting the bed, as warping in this area can signficantly effect the bed leveling.
 
@@ -113,3 +109,9 @@ In the event of further issues, you'll want to contact support for help via the 
 ### The Printer is reporting MIN_TEMP and not letting me print!
 
 In the event your room is below about 10C / 50F, the printer's safety mechanism for thermals may be enabled.  Because the Cocoa Cores cannot be safely stored in this temperature, we suggest you warm your environment up, or move your printer to a better controlled environment.  
+
+### Printer never warms up enough to extrude, even after the 20m timer!
+
+It's possible one of your heaters isn't properly connected.  To evaluate, please try to use the `Temperature` menu to manually set the nozzle *only* to 30C, and see if the extruder temperature rises.  Press cooldown, let sit, and repeat the test for the body heater.  If one fails to rise proportionally, please verify that both are properly secured and connected to the heater ports in the electronics.
+
+If the issue persists, please contact support <a href="mailto:hello@cocoapress.com">(hello@cocoapress.com)</a> so that replacement parts and further diagnostics can be assessed.  
