@@ -9,6 +9,10 @@ Once you've gone through the quickstart and verified your printer is running wel
 
  - [ ] Your Cocoa Press should have the preheating timer run out, meaning that it's had time to warm up the core for printing.
  - [ ] You should have probed the mesh bed leveling of your printer, as well as set the Z offset per this guide [here.](../Advanced/Troubleshooting.md#z-offset) 
+ - [ ] If any debris is on the nozzle from prior prints, wipe off with a paper towel.  The debris on the extruder may sag and cause marks in the current print.
+
+ !!! info
+    If the nozzle is regularly coated with debris, it's likely your first-layer height is off.  Please follow the steps as shown in ["Setting Your Z Offset"](../Troubleshooting/Common.md#z-offset)
 
 ## Steps
 
