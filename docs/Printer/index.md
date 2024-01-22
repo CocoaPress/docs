@@ -5,7 +5,7 @@ To bring up your Cocoa Press, there are some checks and steps you’ll want to t
 ## Electronics Checks
 
  - [ ] Is your power supply switch in the correct mode for your region?
- - [ ] When power is applied to the printer, the status indicator light on the power switch should light up, even if the switch isn't in the on position.  Is the light on?
+ - [ ] When power is enabled for the printer, the power switch indicator should light up. Is the light on?
 
 ![](../img/printer/funkypowerswitch.jpg)
 
