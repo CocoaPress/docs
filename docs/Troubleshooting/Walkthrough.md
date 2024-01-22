@@ -6,7 +6,7 @@ A choose-your-adventure in making fixing your Cocoa Press not quite as much of a
 
     In the rear of the unit, are there any illuminated lights?
 
-    The power switch should have an amber indicator when power is applied.
+    The power switch should have an amber indicator when switched on.
 
     ??? failure "Power Switch Won't Illuminate"
 
