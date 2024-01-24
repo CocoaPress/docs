@@ -16,7 +16,7 @@ Once you've gone through the quickstart and verified your printer is running wel
 
 ## Steps
 
-- [ ] Load your Gcode onto your Cocoa Press by copying the GCode file the slicer made to an SD card, or use one of the pre-made GCode files that came with the printer.
+- [ ] Load your GCode onto your Cocoa Press by copying the GCode file the slicer made to an SD card, or use one of the pre-made GCode files that came with the printer.
 - [ ] Select the "Media" menu.
 
 <!-- TODO add photo of main menu with media selected -->

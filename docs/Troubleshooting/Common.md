@@ -1,8 +1,8 @@
 # Common Issues
 
-??? question "Nozzle is dragging into the silicone baking sheet!"
+## Nozzle is dragging into the silicone baking sheet!
 
-    You'll want to use the Z-Probe Offset menu item to lift your nozzle away from the print surface.
+You'll want to use the Z-Probe Offset menu item to lift your nozzle away from the print surface.
 
 
 ## My nozzle clogs often!
