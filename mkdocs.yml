@@ -54,6 +54,7 @@ nav:
       - 'Storing Chocolate': 'Chocolate/FoodSafety/#storing-cocoa-cores'
       - 'Troubleshooting':
           - 'Common Issues': 'Troubleshooting/Common.md'
+          - 'Initial Setup Troubleshooting Walkthrough': 'Troubleshooting/Walkthrough.md'
 
   - 'Advanced Chocolate Printing':
       - 'Advanced/index.md' 
