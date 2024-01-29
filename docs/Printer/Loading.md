@@ -26,9 +26,11 @@ To load chocolate into your Cocoa Press, you'll need to follow the steps below f
 
   ![](../img/printer/loading/plungerload.jpg)
 
- - [ ] Use the load menu option to fully raise the leadscrew.
- - [ ] Insert the cartridge into the extruder assembly and visually align the screw hole.
-
+ - [ ] Use the load menu option to raise the leadscrew above the halfway point.
+ - [ ] Insert the cartridge into the extruder assembly and twist until the MJF plunger adapter catches the plunger. 
+ - [ ] Twist the cartridge to align with keyed slot and thumbscrew thread.
+ - [ ] Use the load menu to raise the cartridge until the thumbscrew socket is aligned with the cartridge body.  
+ 
  ![](../img/printer/loading/thumbscrew.jpg)
 
  - [ ] Use the thumb screw to secure the cartridge in place.
