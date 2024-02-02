@@ -58,7 +58,7 @@ Then, Turn the M5 screw in the top left or right to raise or lower the screw.
 !!! note
     Turning clockwise will *lower* the assembly closer to the bed, so to avoid colliding with the bed, you'll want to turn it counter-clockwise.
 
-Once the extruder is in a place where the bed can be raised to a space to trigger the Z-probe *without *colliding with the silicone baking sheet or the bed, re-tighten the four M5 screws on the extruder printed parts.
+Once the extruder is in a place where the bed can be raised to a space to trigger the Z-probe *without* colliding with the silicone baking sheet or the bed, re-tighten the four M5 screws on the extruder printed parts.
 
 Then, re-probe your bed mesh and run the Z Adjust Offset wizard again to ensure no data from before the adjustment is present.
 
