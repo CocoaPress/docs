@@ -19,6 +19,19 @@ There are some tools you'll need that aren't included in your Cocoa Press Kit to
     - Your kit comes with a heat-set tool capable of fitting M2 and M3 inserts. Test-fit the tool to your soldering iron before beginning assembly.  
     - In the event your soldering iron doesn't work, [this](https://www.amazon.com/Adjustable-Temperature-Controlled-Thermostatic-Electronic/dp/B089SKWMPT/) is a known working one compatible with the one provided.
 
+## Printed Parts
+
+Your Cocoa Press needs printed parts to be manufactured, and it's highly suggested to have them completely finished before assembly.  Please [download them here](https://than.gs/m/939895) and heatset them as you go.  
+
+Please take care when printing your parts to follow the part requirements in the [Assembly Manual](./index.md) to maximize the odds of a successful and long-lived printer.
+
+![buncha parts](../img/assembly/bunchaparts.jpg)
+
+Some parts are encouraged to be in a primary color (unlabeled) and some in an accent color (denoted with a "Cocoa Press Heart").  While technically optional, do take care to build a flashy, incredible printer.  
+
+!!! question
+    Make a beautiful Cocoa Press in non-standard colors?  Let us know by tagging us on social media!
+
 ### Heatset Technique
 
 When using your heat-set tool, take care to ensure the heatsets are inserted parallel to their final location to minimize drift.  
