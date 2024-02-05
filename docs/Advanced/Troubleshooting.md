@@ -9,6 +9,11 @@ If your display is not showing content after assembling the printer, you may wan
 ### My Display is All White
 If your display after assembly is showing a full white screen and nothing else, it's possible your flat flex cable (FFC) between the actual LCD Panel and your display controller isn't properly seated.  Follow the display assembly steps in the [Assembly Manual](../Assembly/index.md) and verify that the cable is fully inserted.
 
+![](../img/troubleshooting/ribboncable.jpg)
+
+!!! info
+    Your ribbon cable should have no "metallic" pieces showing, and the connector should be fully "locked."  
+
 ### Probe Only Meshes One Point
 
 In the event of an electrical or wiring issue that causes your probe to be disconnected, your printer will be unable to mesh the bed or adjust the probe offset correctly.  You can use the `Advanced Settings -> Endstops` menu to diagnose this setup.
