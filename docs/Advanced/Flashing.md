@@ -7,7 +7,9 @@ Download the latest Cocoa Press firmware from [here.](https://github.com/CocoaPr
 ## Setting Update Mode
 
 - Before flashing, be sure that your printer is completely off.
-- Using the erase button inside the USB panel on the left side of the printer, hold this button while turning the printer on.  After three seconds, you can release.
+- Hold the erase button inside the USB panel on the left side of the printer.
+- Turn the printer on.
+- After three seconds, release the erase button.
 
 ![](../img/flashing_firmware/button_location.png)
 
