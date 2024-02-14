@@ -1,7 +1,7 @@
 # Types of Chocolate
 
 - Compound Chocolate
-- Couveture Chocolate <!-- Real Chocolate -->
+- Couverture Chocolate <!-- Real Chocolate -->
 
 <!-- https://bakewithshivesh.com/best-baking-chocolate-compound-or-couverture/ -->
 
