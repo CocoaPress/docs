@@ -58,6 +58,7 @@
 ![](../img/troubleshooting/ribbon_insertiondepth.jpg)
 
 3 - While holding the ribbon in place, use your fingers to latch the connector.
+
 4 - Make sure the connector is fully seated, and properly closed.
 
 ![](../img/troubleshooting/ribbon_latched.jpg)
