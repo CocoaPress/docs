@@ -49,15 +49,15 @@
 
 ## LCD Ribbon Installation Steps
 
-1. Loosen the small tabs and open the connector using a small flat-bladed screwdriver. 
+1 - Loosen the small tabs and open the connector using a small flat-bladed screwdriver. 
 
 ![](../img/troubleshooting/ribbon_connector.jpg)
 
-2. Gently insert the ribbon cable into the connector until the shiny metallic contacts are fully inserted to the connector.
+2 - Gently insert the ribbon cable into the connector until the shiny metallic contacts are fully inserted to the connector.
 
 ![](../img/troubleshooting/ribbon_insertiondepth.jpg)
 
-3. While holding the ribbon in place, use your fingers to latch the connector.
-4. Make sure the connector is fully seated, and properly closed.
+3 - While holding the ribbon in place, use your fingers to latch the connector.
+4 - Make sure the connector is fully seated, and properly closed.
 
 ![](../img/troubleshooting/ribbon_latched.jpg)
