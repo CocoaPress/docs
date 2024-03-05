@@ -4,6 +4,7 @@
 
 You'll want to use the Z-Probe Offset menu item to lift your nozzle away from the print surface.
 
+![](../img/troubleshooting/probezoffset.jpg)
 
 ## My nozzle clogs often!
 
@@ -17,13 +18,17 @@ If your printer's bed looks slanted when looking at it head on, but the printer 
 
 <!-- TODO add photo of "view mesh" button -->
 
-The maximum we'd suggest is about 3mm, and if your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
+The maximum we'd suggest at opposite corners is about 3mm.  If your printer exceeds this, it's highly suggested you perform the initial assembly steps in the [Assembly Manual](../Assembly/index.md) where the bed screws are adjusted.
 
 Furthering this, you may also need to inspect and potentially re-print the plastic pieces supporting the bed, as warping in this area can signficantly effect the bed leveling.
 
 ## Z-Offset
 
-If probing completes successfully, you'll need a sheet of plain printer paper to adjust the Z-offset.  Using the Menu -> Probe Z Offset.  Follow the steps on screen to adjust the spacing between your nozzle and bed for a consistent first layer.
+If probing completes successfully, you'll need a sheet of plain printer paper to adjust the Z-offset.  Using the `Menu` -> `Probe Z Offset`.  Follow the steps on screen to adjust the spacing between your nozzle and bed for a consistent first layer.
+
+![](../img/troubleshooting/probezoffset.jpg)
+
+![](../img/troubleshooting/probewizard.jpg)
 
 ## Wobbly or Loose Frame
 
@@ -37,7 +42,11 @@ If all rubber feet are present, inspecting that the printed pieces aren't warped
 
 ## Dirty Probe
 
-When printing, it's possible stringing or nozzle issues may result in your Z-Offset Probe becoming dirty.  Disconnect the cable lead as shown in the photo, unscrew the two M3s, and wipe the sensor off thoroughly with paper towels.  Do not use water.  Be sure to (re-probe) and (re-mesh) the bed afterwards.
+When printing, it's possible stringing or nozzle issues may result in your Z-Offset Probe becoming dirty.  
+
+Disconnect the cable lead as shown in the photo, unscrew the two M3s, and wipe the sensor off thoroughly with paper towels. 
+
+ Do not use water, and be sure to (re-probe) and (re-mesh) the bed afterwards.
 
 ![Probe Wire Connection](../img/troubleshooting/probeboi.jpg)
 

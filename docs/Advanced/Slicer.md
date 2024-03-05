@@ -36,7 +36,7 @@ To enable, go to Print Settings in PrusaSlicer, Layers and Perimeters, Vertical 
 
 When making larger batches of prints, you may be able to print *sequentially*, where one object in the slicer is printed, then the next, and so on.  This is only possible if the extruder doesn't collide with your models.  
 
-To check, check the PrusaSlicer "Print Settings" -> "Output Options" -> "Complete individual objects".
+To check, check the PrusaSlicer `Print Settings` -> `Output Options` -> `Complete individual objects`.
 
 ![](../img/printer/sequential.png)
 

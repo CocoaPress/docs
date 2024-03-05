@@ -6,19 +6,28 @@ FFF, or [Fused Filament Fabrication](https://en.wikipedia.org/wiki/Fused_filamen
 
 The Cocoa Press works similarly to plastic printers in theory, the extruder is moved around the workspace of the printer, extruding warm material (chocolate) and cooling through ambient temperatures to produce novel and interesting designs!
 
-## Overhangs
+## Textures and Infill
 
 FFF can enable some incredible designs that wouldn't be possible with any other method of manufacturing, especially for chocolate. 
 
-A common chocolate-making technique is to use molds, where the profile of a piece is taken and then filled or poured with molten chocolate.  
-
-Compared to the timeless ["Benchy"](https://www.3dbenchy.com/) test print for 3d printing, and any piece of interior detail, would be unattainable with molding.
-
-![](../img/101/benchy_overhang.png)
-
-These techniques can even be combined like below, where the interior of this bon-bon was printed, and the shell was molded to produce an incredibly unique bonbon!
+Traditional chocolate-making techniques and your Cocoa Press can also be combined.  Below is a bon-bon, where the interior of this bon-bon was FFF printed out of white chocolate, and the shell was molded to produce an airy and light texture.
 
 ![](../img/101/lattice_covered.png)
+
+The [Slicer](./index.md#the-slicer) allows you to change the "infill pattern", or what pattern it uses for the interior structure of your tasty prints.  Some common examples that work well are gyroid, adaptive cubic, or concentric.  
+
+![](../img/101/slicer-texture-samples.jpg)
+
+!!! tip
+    The above screenshot has "top layers" and "bottom layers" in the slicer profile set to "0" to reveal the interior infill.  This technique is used in the Cocoa Press texture samples that come on your printer's SD card.  Try it out!
+
+## Overhangs
+
+Printing with your Cocoa Press can enable some overhangs in designs, and especially interior designs that simply aren't possible in a single mold.
+
+The ["Benchy"](https://www.3dbenchy.com/) test print for 3d printing is a good indicator, with the interior detail of the "cabin" being impossible to produce with traditional molding.
+
+![](../img/101/benchy_overhang.png)
 
 ## Support
 

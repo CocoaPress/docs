@@ -16,7 +16,7 @@ If your display after assembly is showing a full white screen and nothing else, 
 
 ### Probe Only Meshes One Point
 
-In the event of an electrical or wiring issue that causes your probe to be disconnected, your printer will be unable to mesh the bed or adjust the probe offset correctly.  You can use the `Advanced Settings -> Endstops` menu to diagnose this setup.
+In the event of an electrical or wiring issue that causes your probe to be disconnected, your printer will be unable to mesh the bed or adjust the probe offset correctly.  You can use the `Advanced Settings` -> `Endstops` menu to diagnose this setup.
 
 The 'disabled' state of an endstop is grey, an "off" endstop is Cocoa Press brown, and the "on" state is Cocoa Press orange.  If using the spatula doesn't change the state of the Z_MAX endstop, please contact support at <a href="mailto:hello@cocoapress.com">hello@cocoapress.com</a> for further diagnostic help.
 
@@ -24,7 +24,7 @@ The 'disabled' state of an endstop is grey, an "off" endstop is Cocoa Press brow
 
 When a thermistor (temperature sensor) for the extruder is disconnected, the display on the homepage may show one temperature value as being -65C.  Preheating your Cocoa Cores will cause a MIN_TEMP error as listed [above](#the-printer-is-reporting-min_temp-and-not-letting-me-print).
 
-This can be a wire plugged into the wrong port (verify the connectors match the Assembly Manual), or a crushed wire.  For further assistance please join our Discord and open a ticket, or email support.  
+This can be a wire plugged into the wrong port (verify the connectors match the [Assembly Manual](../assets/assembly_manual.pdf)), or a crushed wire.  For further assistance please join our Discord and open a ticket, or email support.  
 
 ## Extrusion & Printing Troubleshooting
 
@@ -44,9 +44,12 @@ The printer will take about three minutes and probe the printable area of the be
 
 ### Z-Offset
 
-If probing completes successfully, you'll need a sheet of plain printer paper to adjust the Z-offset.  Using the Menu -> Probe Z Offset.  Follow the steps on screen to adjust the spacing between your nozzle and bed for a consistent first layer.
+If probing completes successfully, you'll need a sheet of plain printer paper to adjust the Z-offset.  Using the `Menu` -> `Probe Z Offset` -> `Z Probe Wizard`.  
 
-Your paper should slide under the nozzle with a small amount of resistance, but not enough to tear or catch. This will ensure the nozzle can skim the top surface of the silicone baking sheet would damaging it, and keeping the first layer consistent.
+Follow the steps on screen to adjust the spacing between your nozzle and bed for a consistent first layer.
+
+!!! tip
+    Your paper offset test should slide under the nozzle with a small amount of resistance, but not enough to tear or catch. This will ensure the nozzle can skim the top surface of the silicone baking sheet would damaging it, and keeping the first layer consistent.
 
 ### Adjusting Extruder Height
 
@@ -61,7 +64,7 @@ First, loosen the four M5 screws on the side holding the printed housing pieces 
 Then, Turn the M5 screw in the top left or right to raise or lower the screw.  
 
 !!! note
-    Turning clockwise will *lower* the assembly closer to the bed, so to avoid colliding with the bed, you'll want to turn it counter-clockwise.
+    Turning the M5 coarse adjustment screw clockwise will *lower* the assembly closer to the bed, so to avoid colliding with the bed, you'll want to turn it counter-clockwise.
 
 Once the extruder is in a place where the bed can be raised to a space to trigger the Z-probe *without* colliding with the silicone baking sheet or the bed, re-tighten the four M5 screws on the extruder printed parts.
 

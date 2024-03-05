@@ -10,7 +10,7 @@ Many users share models they make online for use by others, but there are some k
 
 
 !!! warning
-    It's important to verify you can legally use the file you're trying to print; otherwise you might violate the terms of use of the model or design. Please check the copyright note within the files you download, on the download page, and when published by the author.  
+    It's important to verify you can legally use the file you're trying to print in the way you intend to; otherwise you might violate the terms of use of the model or design. Please check the copyright note within the files you download, on the download page, and when published by the author.  
 
 ## "Vase Mode" / "Single Line" Style
 
@@ -35,9 +35,11 @@ Some articulating prints (like these) might work on your Cocoa Press, you'll wan
 
 Certain models you might find are not manifold, or a "closed shape", and cannot be treated like a solid object.  Most 3d models are a series of small triangles called a "mesh", and holes in the mesh can produce impossibly thin and sharp corners that computers struggle to work with, much less a 3D printer to extrude.
 
-<!-- TODO get screenshot of PrusaSlicer with caution triangle we can use, etc. -->
+![](../img/101/model_defective_slicer.jpg){ align=left }
 
-PrusaSlicer will show a caution triangle in the Model Browser (the right pane) if your model is damaged or has geometry issues, and if you are using Windows 10, PrusaSlicer can automatically use the Netfabb service via Microsoft to repair the model automatically.  
+PrusaSlicer will show a caution triangle in the Model Browser (the right pane) if your model is damaged or has geometry issues.  
+
+If using Windows 10 or 11, PrusaSlicer can automatically use the Netfabb service via Microsoft to repair the model automatically.  (double-click or right-click + "repair")  
 
 There are other options for model repair listed both cloud and local.  For more information, see [this PrusaSlicer help center article](https://help.prusa3d.com/article/corrupted-3d-models-for-printing_2205), and [this Prusa blog article.](https://blog.prusa3d.com/repair-3d-models-errors_7529/)
 

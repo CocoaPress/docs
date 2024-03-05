@@ -21,7 +21,10 @@ Cocoa Press has written a guided test to help you verify your printer functions 
 ## Leveling & Meshing
 
 - [ ] Using the menu, choose the Mesh Leveling section and permit your printer time to probe all 25 points in the bed mesh.
-  - [ ] This may take some time, but is used to compensate for any small warping or distortion in the frame or printed parts.
+  - [ ] This may take a few minutes, but is used to compensate for any small warping or distortion in the frame or printed parts.
+!!! info
+    If your printer stops after a single point and says "done", you'll want to verify that your probe wiring is fully connected.  See here for troubleshooting steps.
+
 - [ ] Using a piece of paper, follow the steps on-screen to set your Z-Offset from the Z-Offset menu.
 
 ## Good to go!
