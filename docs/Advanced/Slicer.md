@@ -46,10 +46,6 @@ If there's a red radius around the objects, they're too close to print sequentia
 
 ## Inserting Vectors
 
-!!! warning
-
-    This feature is not yet released to the general public, but is expected to work with your Cocoa Press when released.
-
 ![](../img/advanced/svg_embed.png)
 
 As of Version 2.7.0, PrusaSlicer allows a user to directly insert a vector drawing in SVG format as a modifier.  This allows you to emboss logos, text, or other graphics into your models, or as their own models without additional tooling.
