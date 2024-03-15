@@ -4,7 +4,7 @@ glightbox: false
 
 # Assembly Manual
 
-The assembly manual and this documentation are intended to be used as compliments.  Find the assembly manual [here](../assets/assembly_manual.pdf).
+The assembly manual and this documentation are intended to be used as complements.  Find the assembly manual [here](../assets/assembly_manual.pdf).
 
 [Assembly Manual :material-arrow-right: ](../assets/assembly_manual.pdf){ .md-button .md-button--primary}
 
