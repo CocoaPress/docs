@@ -32,10 +32,17 @@ This section is for setup of Prusa FFF printers.  Feel free to skip this area wi
 
 Select the Cocoa Press machines with the nozzle diameters you have.
 
+![](../img/printer/slicer/fff_custom_profile.png)
+
+!!! Warning
+    Some users report the "Custom Profile" option is selected when working through the Configuration Wizard.  Ensure that this checkbox is *not* selected.
+
+
+![](../img/printer/slicer/fff_filaments.png)
+
 !!! info
     PrusaSlicer views different nozzle sizes as different "machines" due to configuration differences.  Select the appropriate nozzle diameters you might use regardless of how many physical printers you have.
 
-![](../img/printer/slicer/fff_filaments.png)
 
 Validate that your printer profiles include a "filament type" of "CHOCOLATE'.
 
