@@ -1,0 +1,27 @@
+
+:root > * {
+    --md-primary-fg-color: #F1622B;
+    --md-primary-fg-color--light: #3d2113;
+    --md-primary-fg-color--dark: #3d2113;
+    --md-accent-fg-color: #3d2113;
+    --md-text-font-family: 'museo-sans';
+    --md-accent-fg-color: #6B2C1B;
+}
+
+.md-header {
+    background: #f1622b;
+    font-weight: bold;
+}
+
+.pride-bg {
+    background: linear-gradient(to right, red,var(--md-primary-fg-color), var(--md-primary-fg-color) 40%,yellow, blue, indigo, violet);
+}
+
+.pdf-frame {
+  border: .5px solid var(--md-primary-fg-color);
+  direction: ltr;
+}
+
+.md-typeset ul li {
+    margin-bottom: 0;
+}  

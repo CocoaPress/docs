@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="120mm"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="-183.99599"
+       y="132.71841"
+       width="171.93066"
+       height="94.053238"
+       id="rect3" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-35.080292,-35.474453)">
+    <path
+       id="rect2"
+       style="fill:none;stroke:#ff6e42;stroke-width:1.008;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:46.4882;paint-order:stroke markers fill"
+       d="m 46.386861,40.474453 h 97.386859 c 3.49384,0 6.30657,2.81273 6.30657,6.30657 v 97.386857 c 0,3.49384 -2.81273,6.30657 -6.30657,6.30657 H 46.386861 c -3.493839,0 -6.306569,-2.81273 -6.306569,-6.30657 V 46.781023 c 0,-3.49384 2.81273,-6.30657 6.306569,-6.30657 z" />
+    <path
+       style="font-weight:bold;font-size:32px;font-family:'Museo Sans Rounded';-inkscape-font-specification:'Museo Sans Rounded Bold';text-align:center;white-space:pre;fill:none;stroke:#000000;stroke-width:0.654866;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:46.4882;paint-order:stroke markers fill"
+       d="m -100.36629,153.64675 h 1.824003 c 0.992,0 1.44,-0.288 1.664,-1.152 l 0.096,-0.384 c 0.608,-2.496 5.44,-3.616 5.44,-8.48 0,-4.128 -3.872,-6.272 -7.456,-6.272 -2.400003,0 -4.192003,0.832 -5.312003,1.568 -0.96,0.608 -0.928,1.408 -0.288,2.336 l 0.768,1.152 c 0.608,0.896 1.6,0.896 2.592,0.416 0.512,-0.256 1.088003,-0.448 1.664003,-0.448 1.216,0 2.272,0.8 2.272,1.888 0,2.496 -5.024003,3.904 -5.024003,7.296 v 0.32 c 0,1.152 0.608,1.76 1.76,1.76 z m -1.632,5.312 c 0,1.152 0.608,1.76 1.76,1.76 h 1.536003 c 1.152,0 1.76,-0.608 1.76,-1.76 v -1.28 c 0,-1.152 -0.608,-1.76 -1.76,-1.76 h -1.536003 c -1.152,0 -1.76,0.608 -1.76,1.76 z"
+       id="text1"
+       transform="matrix(3.0540587,0,0,3.0540587,394.68412,-359.69864)"
+       aria-label="?" />
+  </g>
+</svg>
